@@ -1,3 +1,5 @@
+![BrandAssets_Logos_01-Wordmark](https://github.com/user-attachments/assets/b7dea815-4fd7-4fe4-81b4-65cf637db819)
+
 Used Kaggle data: https://www.kaggle.com/datasets/chul24/data-neflix/data
 In my Netflix subscription, I wanted to understand the user behavior, preferences, and engagement metrics. The questions that I wanted to tackle are 
 1. Which country has the highest number of subscriptions by method?
