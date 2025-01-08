@@ -7,3 +7,4 @@ In my Netflix subscription, I wanted to understand the user behavior, preference
 
 My questions are based on getting to know subscribers, such as the highest number of subscribers based on their country of residence. I was also curious to identify viewing patterns based on gender preferences.
 Not to mention if income affects the subscription plans and methods. Lastly retention rate by measuring how well does or doesn't retain its users over time.
+Which I thought would be a great insight for a marketing team, content recommendations, and improving retention.
