@@ -1,0 +1,825 @@
+User_ID,Gender,Device,Country,Family_Member,Age,Time_Consuming_Per_Week,Genre,Satisfaction,Monthly_Income,Join_Date,Last_Payment_Date,Subscription_ID,Monthly_Revenue,Subscription_Method,Monthly_Fee,No_Device,Plan_Duration_Month,Initial_Plan_End_Date,Renewed,Days_Since_Join,Retention_Period,Join_Month,Join_Year,Renewal_Month,Renewal_Year
+1,Male,Smartphone,United States,5,21,9,Horror,Satisfied,900,2022-01-15,2023-06-10,1,10,Basic,10,1,1,2022-02-14,True,511,>365 days,1,2022,6,2023
+5,Male,Smartphone,Germany,2,23,9,Action & Adventure,Extremely satisfied,1000,2023-05-01,2023-06-28,1,10,Basic,10,1,1,2023-05-31,True,58,31-60 days,5,2023,6,2023
+8,Female,Laptop,Mexico,1,21,9,Horror,Satisfied,700,2023-04-02,2023-06-24,1,10,Basic,10,1,1,2023-05-02,True,83,61-90 days,4,2023,6,2023
+11,Female,Smartphone,United States,3,19,10,Comedy,Satisfied,1000,2022-05-16,2023-06-22,1,10,Basic,10,1,1,2022-06-15,True,402,>365 days,5,2022,6,2023
+14,Male,Smartphone,Australia,1,20,10,Horror,Extremely satisfied,1000,2022-08-01,2023-06-26,1,10,Basic,10,1,1,2022-08-31,True,329,181-365 days,8,2022,6,2023
+17,Female,Laptop,Brazil,5,25,8,Horror,Extremely satisfied,500,2022-01-24,2023-06-25,1,10,Basic,10,1,1,2022-02-23,True,517,>365 days,1,2022,6,2023
+20,Male,Tablet,Italy,3,17,6,Action & Adventure,Neutral,900,2023-05-27,2023-06-22,1,10,Basic,10,1,1,2023-06-26,False,26,0-30 days,5,2023,6,2023
+22,Male,Smartphone,Canada,3,23,8,Action & Adventure,Extremely satisfied,1000,2022-07-22,2023-06-28,1,10,Basic,10,1,1,2022-08-21,True,341,181-365 days,7,2022,6,2023
+25,Female,Laptop,Germany,5,18,9,Dramma,Extremely satisfied,600,2023-03-14,2023-06-28,1,10,Basic,10,1,1,2023-04-13,True,106,91-180 days,3,2023,6,2023
+27,Female,Smart TV,Brazil,1,18,8,Comedy,Extremely satisfied,600,2022-08-29,2023-06-25,1,10,Basic,10,1,1,2022-09-28,True,300,181-365 days,8,2022,6,2023
+30,Male,Smartphone,Italy,2,17,10,Action & Adventure,Satisfied,1000,2023-05-17,2023-06-22,1,10,Basic,10,1,1,2023-06-16,True,36,31-60 days,5,2023,6,2023
+32,Male,Tablet,Canada,5,25,10,Horror,Extremely satisfied,1000,2022-07-07,2023-06-28,1,10,Basic,10,1,1,2022-08-06,True,356,181-365 days,7,2022,6,2023
+35,Female,Smart TV,Germany,5,20,8,Horror,Extremely satisfied,700,2023-04-11,2023-06-28,1,10,Basic,10,1,1,2023-05-11,True,78,61-90 days,4,2023,6,2023
+37,Female,Laptop,Brazil,1,21,9,Comedy,Extremely satisfied,600,2022-09-14,2023-06-25,1,10,Basic,10,1,1,2022-10-14,True,284,181-365 days,9,2022,6,2023
+40,Male,Tablet,Italy,5,22,6,Horror,Extremely satisfied,800,2023-03-07,2023-06-22,1,10,Basic,10,1,1,2023-04-06,True,107,91-180 days,3,2023,6,2023
+42,Male,Smartphone,Canada,5,18,8,Horror,Satisfied,600,2022-06-15,2023-06-28,1,10,Basic,10,1,1,2022-07-15,True,378,>365 days,6,2022,6,2023
+45,Female,Laptop,Germany,4,21,9,Comedy,Neutral,600,2023-01-28,2023-06-28,1,10,Basic,10,1,1,2023-02-27,True,151,91-180 days,1,2023,6,2023
+47,Female,Smart TV,Brazil,2,17,6,Comedy,Satisfied,700,2022-10-05,2023-06-25,1,10,Basic,10,1,1,2022-11-04,True,263,181-365 days,10,2022,6,2023
+50,Male,Smartphone,Italy,4,25,8,Horror,Neutral,700,2023-06-02,2023-06-22,1,10,Basic,10,1,1,2023-07-02,False,20,0-30 days,6,2023,6,2023
+52,Male,Tablet,Canada,3,21,6,Horror,Neutral,900,2022-08-29,2023-06-28,1,10,Basic,10,1,1,2022-09-28,True,303,181-365 days,8,2022,6,2023
+55,Female,Smart TV,Germany,1,23,6,Horror,Extremely satisfied,600,2023-04-20,2023-06-28,1,10,Basic,10,1,1,2023-05-20,True,69,61-90 days,4,2023,6,2023
+57,Female,Laptop,Brazil,1,23,7,Dramma,Satisfied,500,2022-10-01,2023-06-25,1,10,Basic,10,1,1,2022-10-31,True,267,181-365 days,10,2022,6,2023
+60,Male,Tablet,Italy,2,19,6,Action & Adventure,Satisfied,900,2023-06-14,2023-06-22,1,10,Basic,10,1,1,2023-07-14,False,8,0-30 days,6,2023,6,2023
+62,Male,Smartphone,Canada,4,17,6,Horror,Extremely satisfied,600,2022-08-03,2023-06-28,1,10,Basic,10,1,1,2022-09-02,True,329,181-365 days,8,2022,6,2023
+65,Female,Laptop,Germany,3,19,8,Comedy,Neutral,900,2023-03-29,2023-06-28,1,10,Basic,10,1,1,2023-04-28,True,91,91-180 days,3,2023,6,2023
+67,Female,Smart TV,Brazil,3,20,10,Horror,Neutral,700,2022-09-18,2023-06-25,1,10,Basic,10,1,1,2022-10-18,True,280,181-365 days,9,2022,6,2023
+70,Male,Smartphone,Italy,1,24,6,Action & Adventure,Extremely satisfied,600,2023-05-08,2023-06-22,1,10,Basic,10,1,1,2023-06-07,True,45,31-60 days,5,2023,6,2023
+71,Male,Smartphone,United States,3,24,10,Horror,Extremely satisfied,800,2022-01-26,2023-06-20,1,10,Basic,10,1,1,2022-02-25,True,510,>365 days,1,2022,6,2023
+72,Female,Smartphone,Canada,5,20,7,Comedy,Neutral,800,2022-10-11,2023-06-22,1,10,Basic,10,1,1,2022-11-10,True,254,181-365 days,10,2022,6,2023
+75,Female,Laptop,Germany,2,21,10,Horror,Satisfied,700,2022-05-28,2023-06-26,1,13,Basic,10,1,1,2022-06-27,True,394,>365 days,5,2022,6,2023
+76,Female,Laptop,France,5,18,6,Comedy,Neutral,900,2021-12-29,2023-06-26,1,13,Basic,10,1,1,2022-01-28,True,544,>365 days,12,2021,6,2023
+80,Male,Tablet,Italy,2,21,6,Horror,Satisfied,1000,2022-11-08,2023-06-22,1,12,Basic,10,1,1,2022-12-08,True,226,181-365 days,11,2022,6,2023
+83,Female,Smartphone,United Kingdom,5,17,8,Dramma,Extremely satisfied,800,2022-10-20,2023-06-26,1,10,Basic,10,1,1,2022-11-19,True,249,181-365 days,10,2022,6,2023
+86,Female,Smartphone,France,5,20,6,Comedy,Extremely satisfied,600,2022-03-04,2023-06-25,1,11,Basic,10,1,1,2022-04-03,True,478,>365 days,3,2022,6,2023
+89,Male,Smartphone,Spain,1,17,7,Action & Adventure,Extremely satisfied,800,2022-10-20,2023-06-26,1,15,Basic,10,1,1,2022-11-19,True,249,181-365 days,10,2022,6,2023
+92,Male,Smart TV,Canada,3,23,9,Horror,Neutral,700,2022-01-05,2023-06-28,1,14,Basic,10,1,1,2022-02-04,True,539,>365 days,1,2022,6,2023
+95,Male,Laptop,Germany,3,21,10,Action & Adventure,Extremely satisfied,900,2022-02-28,2023-06-25,1,11,Basic,10,1,1,2022-03-30,True,482,>365 days,2,2022,6,2023
+97,Female,Tablet,Brazil,1,19,9,Horror,Neutral,700,2022-03-05,2023-06-24,1,10,Basic,10,1,1,2022-04-04,True,476,>365 days,3,2022,6,2023
+100,Male,Laptop,Italy,5,21,10,Action & Adventure,Satisfied,600,2023-01-22,2023-06-25,1,12,Basic,10,1,1,2023-02-21,True,154,91-180 days,1,2023,6,2023
+102,Male,Tablet,Canada,2,17,9,Horror,Extremely satisfied,800,2022-03-29,2023-06-28,1,12,Basic,10,1,1,2022-04-28,True,456,>365 days,3,2022,6,2023
+105,Female,Laptop,Germany,2,17,6,Horror,Neutral,900,2022-03-04,2023-06-27,1,11,Basic,10,1,1,2022-04-03,True,480,>365 days,3,2022,6,2023
+107,Female,Smart TV,Brazil,5,19,7,Dramma,Neutral,700,2022-03-07,2023-06-24,1,14,Basic,10,1,1,2022-04-06,True,474,>365 days,3,2022,6,2023
+110,Female,Laptop,Italy,1,21,7,Comedy,Satisfied,800,2023-01-26,2023-06-24,1,13,Basic,10,1,1,2023-02-25,True,149,91-180 days,1,2023,6,2023
+112,Female,Laptop,Canada,2,25,8,Dramma,Extremely satisfied,700,2022-06-01,2023-06-28,1,10,Basic,10,1,1,2022-07-01,True,392,>365 days,6,2022,6,2023
+115,Female,Laptop,Germany,4,18,7,Comedy,Neutral,900,2022-04-05,2023-06-25,1,11,Basic,10,1,1,2022-05-05,True,446,>365 days,4,2022,6,2023
+117,Female,Tablet,Brazil,1,19,8,Dramma,Extremely satisfied,600,2021-10-30,2023-06-23,1,15,Basic,10,1,1,2021-11-29,True,601,>365 days,10,2021,6,2023
+120,Female,Smart TV,Italy,3,20,7,Comedy,Satisfied,600,2022-10-18,2023-06-25,1,10,Basic,10,1,1,2022-11-17,True,250,181-365 days,10,2022,6,2023
+122,Male,Smart TV,Canada,3,22,8,Action & Adventure,Extremely satisfied,800,2022-05-03,2023-06-28,1,11,Basic,10,1,1,2022-06-02,True,421,>365 days,5,2022,6,2023
+125,Male,Smartphone,Germany,3,21,10,Horror,Neutral,700,2022-08-21,2023-06-24,1,12,Basic,10,1,1,2022-09-20,True,307,181-365 days,8,2022,6,2023
+127,Male,Smartphone,Brazil,2,21,6,Action & Adventure,Extremely satisfied,600,2021-11-23,2023-06-23,1,10,Basic,10,1,1,2021-12-23,True,577,>365 days,11,2021,6,2023
+130,Female,Tablet,Italy,3,25,9,Horror,Neutral,900,2023-01-07,2023-06-23,1,14,Basic,10,1,1,2023-02-06,True,167,91-180 days,1,2023,6,2023
+132,Female,Smart TV,Canada,1,25,10,Comedy,Extremely satisfied,700,2022-06-24,2023-06-28,1,15,Basic,10,1,1,2022-07-24,True,369,>365 days,6,2022,6,2023
+135,Female,Smart TV,Germany,4,23,6,Comedy,Extremely satisfied,700,2022-07-18,2023-06-26,1,13,Basic,10,1,1,2022-08-17,True,343,181-365 days,7,2022,6,2023
+137,Male,Laptop,Brazil,3,18,10,Action & Adventure,Neutral,700,2022-08-10,2023-06-22,1,12,Basic,10,1,1,2022-09-09,True,316,181-365 days,8,2022,6,2023
+140,Female,Smartphone,Italy,1,23,10,Horror,Neutral,800,2022-05-02,2023-06-23,1,12,Basic,10,1,1,2022-06-01,True,417,>365 days,5,2022,6,2023
+142,Male,Smart TV,Canada,4,25,8,Horror,Extremely satisfied,600,2022-06-10,2023-06-22,1,14,Basic,10,1,1,2022-07-10,True,377,>365 days,6,2022,6,2023
+145,Female,Laptop,Germany,5,17,6,Comedy,Extremely satisfied,1000,2022-05-05,2023-06-26,1,11,Basic,10,1,1,2022-06-04,True,417,>365 days,5,2022,6,2023
+146,Male,Tablet,France,3,23,9,Horror,Neutral,600,2022-10-06,2023-06-25,1,10,Basic,10,1,1,2022-11-05,True,262,181-365 days,10,2022,6,2023
+147,Female,Laptop,Brazil,1,17,8,Comedy,Neutral,500,2022-11-08,2023-06-24,1,12,Basic,10,1,1,2022-12-08,True,228,181-365 days,11,2022,6,2023
+150,Female,Laptop,Italy,5,20,8,Comedy,Satisfied,800,2022-12-15,2023-06-23,1,10,Basic,10,1,1,2023-01-14,True,190,181-365 days,12,2022,6,2023
+151,Female,Laptop,United States,1,22,9,Comedy,Satisfied,800,2022-12-12,2023-06-25,1,15,Basic,10,1,1,2023-01-11,True,195,181-365 days,12,2022,6,2023
+155,Male,Tablet,Germany,5,24,9,Action & Adventure,Neutral,900,2022-11-18,2023-06-27,1,14,Basic,10,1,1,2022-12-18,True,221,181-365 days,11,2022,6,2023
+158,Female,Smartphone,Mexico,3,22,6,Comedy,Neutral,800,2022-10-19,2023-06-28,1,13,Basic,10,1,1,2022-11-18,True,252,181-365 days,10,2022,6,2023
+161,Male,Tablet,United States,2,20,6,Action & Adventure,Extremely satisfied,800,2022-10-23,2023-06-24,1,10,Basic,10,1,1,2022-11-22,True,244,181-365 days,10,2022,6,2023
+164,Female,Tablet,Australia,4,18,10,Dramma,Satisfied,600,2022-03-11,2023-06-26,1,11,Basic,10,1,1,2022-04-10,True,472,>365 days,3,2022,6,2023
+167,Male,Smartphone,Brazil,5,17,9,Horror,Satisfied,500,2022-04-07,2023-06-24,1,13,Basic,10,1,1,2022-05-07,True,443,>365 days,4,2022,6,2023
+170,Male,Laptop,Italy,5,18,9,Horror,Extremely satisfied,900,2023-01-12,2023-06-25,1,14,Basic,10,1,1,2023-02-11,True,164,91-180 days,1,2023,6,2023
+172,Female,Smartphone,Canada,3,24,6,Comedy,Neutral,800,2022-04-27,2023-06-26,1,12,Basic,10,1,1,2022-05-27,True,425,>365 days,4,2022,6,2023
+175,Female,Laptop,Germany,3,21,6,Comedy,Neutral,700,2022-04-22,2023-06-26,1,10,Basic,10,1,1,2022-05-22,True,430,>365 days,4,2022,6,2023
+177,Female,Smartphone,Brazil,1,20,6,Horror,Satisfied,500,2022-05-23,2023-06-26,1,15,Basic,10,1,1,2022-06-22,True,399,>365 days,5,2022,6,2023
+180,Male,Laptop,Italy,2,20,8,Action & Adventure,Satisfied,1000,2022-09-26,2023-06-25,1,14,Basic,10,1,1,2022-10-26,True,272,181-365 days,9,2022,6,2023
+182,Female,Laptop,Canada,3,23,10,Horror,Extremely satisfied,900,2022-05-16,2023-06-25,1,13,Basic,10,1,1,2022-06-15,True,405,>365 days,5,2022,6,2023
+185,Female,Tablet,Germany,3,23,10,Horror,Extremely satisfied,900,2022-05-12,2023-06-25,1,11,Basic,10,1,1,2022-06-11,True,409,>365 days,5,2022,6,2023
+187,Female,Laptop,Brazil,3,23,9,Dramma,Extremely satisfied,800,2022-07-10,2023-06-24,1,13,Basic,10,1,1,2022-08-09,True,349,181-365 days,7,2022,6,2023
+190,Female,Tablet,Italy,5,22,7,Comedy,Satisfied,700,2022-09-18,2023-06-26,1,11,Basic,10,1,1,2022-10-18,True,281,181-365 days,9,2022,6,2023
+192,Female,Smartphone,Canada,1,25,9,Dramma,Extremely satisfied,600,2022-06-26,2023-06-27,1,14,Basic,10,1,1,2022-07-26,True,366,>365 days,6,2022,6,2023
+195,Female,Smartphone,Germany,2,20,10,Dramma,Satisfied,700,2022-08-26,2023-06-24,1,11,Basic,10,1,1,2022-09-25,True,302,181-365 days,8,2022,6,2023
+197,Male,Tablet,Brazil,5,23,9,Action & Adventure,Neutral,500,2022-09-27,2023-06-23,1,14,Basic,10,1,1,2022-10-27,True,269,181-365 days,9,2022,6,2023
+200,Female,Tablet,Italy,3,23,7,Comedy,Extremely satisfied,600,2022-10-13,2023-06-25,1,11,Basic,10,1,1,2022-11-12,True,255,181-365 days,10,2022,6,2023
+202,Female,Tablet,Canada,5,20,9,Dramma,Neutral,1000,2022-06-26,2023-06-27,1,12,Basic,10,1,1,2022-07-26,True,366,>365 days,6,2022,6,2023
+205,Male,Smart TV,Germany,5,18,7,Horror,Satisfied,700,2022-07-30,2023-06-25,1,12,Basic,10,1,1,2022-08-29,True,330,181-365 days,7,2022,6,2023
+207,Female,Smartphone,Brazil,1,23,6,Horror,Neutral,600,2022-09-16,2023-06-24,1,15,Basic,10,1,1,2022-10-16,True,281,181-365 days,9,2022,6,2023
+210,Female,Laptop,Italy,2,18,9,Horror,Extremely satisfied,700,2022-11-22,2023-06-26,1,14,Basic,10,1,1,2022-12-22,True,216,181-365 days,11,2022,6,2023
+212,Male,Smart TV,Canada,1,25,10,Action & Adventure,Neutral,800,2022-10-28,2023-06-26,1,11,Basic,10,1,1,2022-11-27,True,241,181-365 days,10,2022,6,2023
+215,Female,Smartphone,Germany,1,18,8,Dramma,Neutral,600,2022-09-02,2023-06-27,1,13,Basic,10,1,1,2022-10-02,True,298,181-365 days,9,2022,6,2023
+217,Male,Smart TV,Brazil,2,22,10,Horror,Extremely satisfied,800,2022-11-13,2023-06-25,1,15,Basic,10,1,1,2022-12-13,True,224,181-365 days,11,2022,6,2023
+220,Male,Tablet,Italy,5,25,8,Horror,Neutral,600,2022-11-26,2023-06-27,1,12,Basic,10,1,1,2022-12-26,True,213,181-365 days,11,2022,6,2023
+221,Male,Smartphone,United States,2,22,9,Horror,Neutral,900,2022-11-26,2023-06-25,1,12,Basic,10,1,1,2022-12-26,True,211,181-365 days,11,2022,6,2023
+222,Female,Smartphone,Canada,2,18,10,Comedy,Extremely satisfied,600,2022-12-12,2023-06-26,1,10,Basic,10,1,1,2023-01-11,True,196,181-365 days,12,2022,6,2023
+225,Female,Smartphone,Germany,3,20,9,Dramma,Neutral,700,2022-10-11,2023-06-27,1,14,Basic,10,1,1,2022-11-10,True,259,181-365 days,10,2022,6,2023
+226,Male,Smartphone,France,3,25,6,Action & Adventure,Neutral,900,2022-09-27,2023-06-26,1,10,Basic,10,1,1,2022-10-27,True,272,181-365 days,9,2022,6,2023
+230,Male,Laptop,Italy,4,23,10,Horror,Extremely satisfied,800,2022-10-30,2023-06-26,1,12,Basic,10,1,1,2022-11-29,True,239,181-365 days,10,2022,6,2023
+233,Female,Smart TV,United Kingdom,5,24,10,Horror,Satisfied,800,2022-07-07,2023-06-26,1,15,Basic,10,1,1,2022-08-06,True,354,181-365 days,7,2022,6,2023
+236,Female,Smartphone,France,4,20,9,Dramma,Neutral,800,2022-05-08,2023-06-26,1,11,Basic,10,1,1,2022-06-07,True,414,>365 days,5,2022,6,2023
+239,Male,Smart TV,Spain,1,24,7,Action & Adventure,Satisfied,800,2022-12-23,2023-06-26,1,15,Basic,10,1,1,2023-01-22,True,185,181-365 days,12,2022,6,2023
+242,Male,Laptop,Canada,4,17,10,Action & Adventure,Neutral,900,2022-06-02,2023-06-26,1,12,Basic,10,1,1,2022-07-02,True,389,>365 days,6,2022,6,2023
+245,Male,Smart TV,Germany,3,20,6,Horror,Extremely satisfied,600,2022-04-20,2023-06-26,1,13,Basic,10,1,1,2022-05-20,True,432,>365 days,4,2022,6,2023
+247,Male,Smart TV,Brazil,3,17,8,Action & Adventure,Satisfied,500,2022-07-07,2023-06-27,1,12,Basic,10,1,1,2022-08-06,True,355,181-365 days,7,2022,6,2023
+250,Male,Laptop,Italy,1,20,8,Action & Adventure,Satisfied,900,2022-08-09,2023-06-26,1,14,Basic,10,1,1,2022-09-08,True,321,181-365 days,8,2022,6,2023
+252,Female,Smartphone,Canada,3,19,9,Dramma,Neutral,700,2022-05-30,2023-06-26,1,11,Basic,10,1,1,2022-06-29,True,392,>365 days,5,2022,6,2023
+255,Female,Smart TV,Germany,2,19,9,Dramma,Extremely dissatisfied,600,2022-05-20,2023-06-26,1,13,Basic,10,1,1,2022-06-19,True,402,>365 days,5,2022,6,2023
+257,Male,Laptop,Brazil,3,19,9,Horror,Neutral,600,2022-06-17,2023-06-25,1,13,Basic,10,1,1,2022-07-17,True,373,>365 days,6,2022,6,2023
+260,Female,Smartphone,Italy,1,18,8,Horror,Extremely dissatisfied,600,2022-07-17,2023-06-26,1,10,Basic,10,1,1,2022-08-16,True,344,181-365 days,7,2022,6,2023
+262,Female,Tablet,Canada,4,22,7,Horror,Neutral,800,2022-07-13,2023-06-26,1,12,Basic,10,1,1,2022-08-12,True,348,181-365 days,7,2022,6,2023
+265,Female,Smart TV,Germany,1,23,9,Comedy,Neutral,700,2022-08-05,2023-06-25,1,11,Basic,10,1,1,2022-09-04,True,324,181-365 days,8,2022,6,2023
+267,Female,Laptop,Brazil,2,17,10,Horror,Dissatisfied,700,2022-09-08,2023-06-27,1,11,Basic,10,1,1,2022-10-08,True,292,181-365 days,9,2022,6,2023
+270,Male,Smart TV,Italy,4,23,7,Action & Adventure,Extremely satisfied,800,2022-09-04,2023-06-25,1,12,Basic,10,1,1,2022-10-04,True,294,181-365 days,9,2022,6,2023
+272,Female,Smartphone,Canada,5,23,6,Dramma,Neutral,900,2022-08-10,2023-06-26,1,10,Basic,10,1,1,2022-09-09,True,320,181-365 days,8,2022,6,2023
+275,Female,Laptop,Germany,2,25,7,Horror,Extremely satisfied,700,2022-08-06,2023-06-25,1,15,Basic,10,1,1,2022-09-05,True,323,181-365 days,8,2022,6,2023
+277,Female,Tablet,Brazil,4,18,10,Horror,Extremely satisfied,600,2022-09-12,2023-06-26,1,13,Basic,10,1,1,2022-10-12,True,287,181-365 days,9,2022,6,2023
+280,Female,Laptop,Italy,5,24,8,Horror,Extremely satisfied,600,2022-11-13,2023-06-27,1,12,Basic,10,1,1,2022-12-13,True,226,181-365 days,11,2022,6,2023
+282,Male,Smart TV,Canada,5,20,7,Horror,Neutral,800,2022-10-30,2023-06-25,1,11,Basic,10,1,1,2022-11-29,True,238,181-365 days,10,2022,6,2023
+285,Female,Laptop,Germany,3,18,10,Dramma,Neutral,700,2022-09-01,2023-06-27,1,10,Basic,10,1,1,2022-10-01,True,299,181-365 days,9,2022,6,2023
+287,Male,Smartphone,Brazil,1,24,7,Action & Adventure,Neutral,800,2022-10-16,2023-06-26,1,10,Basic,10,1,1,2022-11-15,True,253,181-365 days,10,2022,6,2023
+290,Male,Smartphone,Italy,3,19,7,Action & Adventure,Dissatisfied,700,2022-11-25,2023-06-30,1,12,Basic,10,1,1,2022-12-25,True,217,181-365 days,11,2022,6,2023
+292,Female,Laptop,Canada,3,17,6,Horror,Extremely dissatisfied,1000,2022-12-12,2023-06-27,1,11,Basic,10,1,1,2023-01-11,True,197,181-365 days,12,2022,6,2023
+295,Male,Laptop,Germany,5,20,9,Horror,Dissatisfied,900,2022-10-03,2023-06-27,1,14,Basic,10,1,1,2022-11-02,True,267,181-365 days,10,2022,6,2023
+296,Female,Tablet,France,1,19,9,Horror,Extremely dissatisfied,800,2022-10-01,2023-06-27,1,12,Basic,10,1,1,2022-10-31,True,269,181-365 days,10,2022,6,2023
+297,Male,Smartphone,Brazil,1,17,9,Horror,Extremely satisfied,500,2022-11-02,2023-06-24,1,13,Basic,10,1,1,2022-12-02,True,234,181-365 days,11,2022,6,2023
+300,Male,Laptop,Italy,4,21,10,Action & Adventure,Neutral,600,2022-10-30,2023-06-28,1,11,Basic,10,1,1,2022-11-29,True,241,181-365 days,10,2022,6,2023
+301,Female,Laptop,United States,3,20,10,Horror,Extremely dissatisfied,900,2022-09-27,2023-06-24,1,10,Basic,10,1,1,2022-10-27,True,270,181-365 days,9,2022,6,2023
+305,Male,Smart TV,Germany,2,20,6,Horror,Extremely dissatisfied,900,2022-05-24,2023-06-26,1,13,Basic,10,1,1,2022-06-23,True,398,>365 days,5,2022,6,2023
+308,Male,Smart TV,Mexico,2,25,7,Horror,Neutral,600,2022-10-27,2023-06-27,1,13,Basic,10,1,1,2022-11-26,True,243,181-365 days,10,2022,6,2023
+311,Female,Smartphone,United States,3,21,10,Horror,Satisfied,600,2022-06-07,2023-06-27,1,15,Basic,10,1,1,2022-07-07,True,385,>365 days,6,2022,6,2023
+314,Male,Laptop,Australia,5,23,9,Horror,Extremely satisfied,700,2022-04-21,2023-06-26,1,10,Basic,10,1,1,2022-05-21,True,431,>365 days,4,2022,6,2023
+317,Female,Tablet,Brazil,5,24,6,Horror,Satisfied,700,2022-08-25,2023-06-28,1,15,Basic,10,1,1,2022-09-24,True,307,181-365 days,8,2022,6,2023
+320,Female,Laptop,Italy,1,24,10,Comedy,Extremely satisfied,800,2022-08-02,2023-06-27,1,15,Basic,10,1,1,2022-09-01,True,329,181-365 days,8,2022,6,2023
+322,Male,Smartphone,Canada,5,23,10,Horror,Extremely dissatisfied,900,2022-06-04,2023-06-27,1,15,Basic,10,1,1,2022-07-04,True,388,>365 days,6,2022,6,2023
+325,Male,Tablet,Germany,2,20,6,Action & Adventure,Extremely satisfied,700,2022-05-29,2023-06-27,1,13,Basic,10,1,1,2022-06-28,True,394,>365 days,5,2022,6,2023
+327,Female,Smartphone,Brazil,4,25,9,Dramma,Extremely satisfied,700,2022-07-06,2023-06-26,1,12,Basic,10,1,1,2022-08-05,True,355,181-365 days,7,2022,6,2023
+330,Female,Smart TV,Italy,2,19,7,Horror,Dissatisfied,1000,2022-07-06,2023-06-26,1,10,Basic,10,1,1,2022-08-05,True,355,181-365 days,7,2022,6,2023
+332,Male,Tablet,Canada,3,29,3,Action & Adventure,Neutral,4000,2022-07-22,2023-06-26,1,14,Basic,10,1,1,2022-08-21,True,339,181-365 days,7,2022,6,2023
+335,Female,Tablet,Germany,5,35,4,Comedy,Neutral,3700,2022-08-11,2023-06-25,1,10,Basic,10,1,1,2022-09-10,True,318,181-365 days,8,2022,6,2023
+337,Male,Laptop,Brazil,1,30,4,Horror,Extremely satisfied,1800,2022-10-11,2023-06-27,1,13,Basic,10,1,1,2022-11-10,True,259,181-365 days,10,2022,6,2023
+340,Female,Smartphone,Italy,2,32,2,Comedy,Satisfied,3500,2022-09-13,2023-06-25,1,14,Basic,10,1,1,2022-10-13,True,285,181-365 days,9,2022,6,2023
+342,Female,Laptop,Canada,5,33,3,Horror,Extremely satisfied,3800,2022-08-09,2023-06-26,1,11,Basic,10,1,1,2022-09-08,True,321,181-365 days,8,2022,6,2023
+345,Female,Smart TV,Germany,5,34,3,Comedy,Extremely satisfied,4100,2022-08-08,2023-06-25,1,10,Basic,10,1,1,2022-09-07,True,321,181-365 days,8,2022,6,2023
+347,Male,Smartphone,Brazil,4,30,4,Horror,Satisfied,1700,2022-09-21,2023-06-28,1,14,Basic,10,1,1,2022-10-21,True,280,181-365 days,9,2022,6,2023
+350,Female,Smartphone,Italy,1,32,2,Dramma,Satisfied,4000,2022-11-02,2023-06-28,1,10,Basic,10,1,1,2022-12-02,True,238,181-365 days,11,2022,6,2023
+352,Male,Laptop,Canada,2,34,2,Horror,Satisfied,3800,2022-09-20,2023-06-26,1,10,Basic,10,1,1,2022-10-20,True,279,181-365 days,9,2022,6,2023
+355,Female,Tablet,Germany,2,33,2,Comedy,Extremely satisfied,3400,2022-10-12,2023-06-27,1,15,Basic,10,1,1,2022-11-11,True,258,181-365 days,10,2022,6,2023
+357,Male,Smartphone,Brazil,3,26,2,Horror,Neutral,2100,2022-10-18,2023-06-26,1,15,Basic,10,1,1,2022-11-17,True,251,181-365 days,10,2022,6,2023
+360,Female,Tablet,Italy,5,27,4,Dramma,Neutral,3600,2022-11-21,2023-06-30,1,15,Basic,10,1,1,2022-12-21,True,221,181-365 days,11,2022,6,2023
+362,Male,Laptop,Canada,2,26,2,Action & Adventure,Satisfied,3700,2022-12-08,2023-06-27,1,11,Basic,10,1,1,2023-01-07,True,201,181-365 days,12,2022,6,2023
+365,Male,Laptop,Germany,1,33,2,Horror,Neutral,3400,2022-10-13,2023-06-27,1,11,Basic,10,1,1,2022-11-12,True,257,181-365 days,10,2022,6,2023
+367,Male,Laptop,Brazil,2,33,2,Horror,Satisfied,2300,2022-10-23,2023-06-25,1,13,Basic,10,1,1,2022-11-22,True,245,181-365 days,10,2022,6,2023
+370,Female,Smartphone,Italy,5,26,2,Horror,Extremely satisfied,4000,2022-10-22,2023-06-29,1,11,Basic,10,1,1,2022-11-21,True,250,181-365 days,10,2022,6,2023
+371,Male,Tablet,United States,2,33,2,Action & Adventure,Neutral,3500,2022-09-30,2023-06-25,1,11,Basic,10,1,1,2022-10-30,True,268,181-365 days,9,2022,6,2023
+372,Female,Tablet,Canada,2,30,4,Dramma,Satisfied,4000,2022-09-06,2023-06-27,1,11,Basic,10,1,1,2022-10-06,True,294,181-365 days,9,2022,6,2023
+375,Female,Laptop,Germany,3,29,4,Comedy,Satisfied,3900,2022-06-17,2023-06-28,1,14,Basic,10,1,1,2022-07-17,True,376,>365 days,6,2022,6,2023
+376,Female,Smartphone,France,5,34,4,Comedy,Extremely satisfied,3700,2022-06-20,2023-06-27,1,12,Basic,10,1,1,2022-07-20,True,372,>365 days,6,2022,6,2023
+380,Female,Smart TV,Italy,4,28,3,Dramma,Extremely satisfied,3400,2022-08-05,2023-06-27,1,15,Basic,10,1,1,2022-09-04,True,326,181-365 days,8,2022,6,2023
+383,Male,Smart TV,United Kingdom,5,31,4,Action & Adventure,Neutral,4000,2022-06-01,2023-06-27,1,10,Basic,10,1,1,2022-07-01,True,391,>365 days,6,2022,6,2023
+386,Male,Tablet,France,1,28,2,Action & Adventure,Neutral,3900,2022-07-11,2023-06-26,1,14,Basic,10,1,1,2022-08-10,True,350,181-365 days,7,2022,6,2023
+389,Male,Smart TV,Spain,4,33,2,Horror,Satisfied,4200,2022-08-02,2023-06-26,1,14,Basic,10,1,1,2022-09-01,True,328,181-365 days,8,2022,6,2023
+392,Male,Smart TV,Canada,2,32,4,Action & Adventure,Satisfied,4200,2022-06-03,2023-06-28,1,15,Basic,10,1,1,2022-07-03,True,390,>365 days,6,2022,6,2023
+395,Female,Laptop,Germany,3,33,4,Comedy,Neutral,3700,2022-06-05,2023-06-26,1,12,Basic,10,1,1,2022-07-05,True,386,>365 days,6,2022,6,2023
+397,Female,Smartphone,Brazil,5,35,4,Horror,Extremely satisfied,2300,2022-07-14,2023-06-26,1,11,Basic,10,1,1,2022-08-13,True,347,181-365 days,7,2022,6,2023
+400,Male,Laptop,Italy,4,31,4,Horror,Neutral,3500,2022-07-13,2023-06-27,1,14,Basic,10,1,1,2022-08-12,True,349,181-365 days,7,2022,6,2023
+402,Male,Smartphone,Canada,3,32,3,Horror,Neutral,3600,2022-07-21,2023-06-26,1,14,Basic,10,1,1,2022-08-20,True,340,181-365 days,7,2022,6,2023
+405,Female,Tablet,Germany,4,35,3,Comedy,Satisfied,3800,2022-08-06,2023-06-26,1,13,Basic,10,1,1,2022-09-05,True,324,181-365 days,8,2022,6,2023
+407,Female,Tablet,Brazil,5,27,3,Comedy,Neutral,2300,2022-08-26,2023-06-27,1,12,Basic,10,1,1,2022-09-25,True,305,181-365 days,8,2022,6,2023
+410,Male,Smart TV,Italy,2,33,3,Action & Adventure,Neutral,3700,2022-09-02,2023-06-25,1,15,Basic,10,1,1,2022-10-02,True,296,181-365 days,9,2022,6,2023
+412,Male,Laptop,Canada,3,31,3,Action & Adventure,Neutral,3700,2022-09-03,2023-06-26,1,12,Basic,10,1,1,2022-10-03,True,296,181-365 days,9,2022,6,2023
+415,Female,Smartphone,Germany,2,32,3,Comedy,Satisfied,4000,2022-08-23,2023-06-25,1,13,Basic,10,1,1,2022-09-22,True,306,181-365 days,8,2022,6,2023
+417,Male,Smart TV,Brazil,1,35,3,Action & Adventure,Extremely satisfied,1700,2022-09-21,2023-06-29,1,14,Basic,10,1,1,2022-10-21,True,281,181-365 days,9,2022,6,2023
+420,Male,Laptop,Italy,3,33,2,Horror,Extremely satisfied,3500,2022-11-02,2023-06-28,1,10,Basic,10,1,1,2022-12-02,True,238,181-365 days,11,2022,6,2023
+422,Female,Tablet,Canada,5,35,4,Comedy,Satisfied,4100,2022-09-15,2023-06-29,1,14,Basic,10,1,1,2022-10-15,True,287,181-365 days,9,2022,6,2023
+425,Male,Tablet,Germany,3,31,2,Horror,Extremely satisfied,3600,2022-10-04,2023-06-27,1,13,Basic,10,1,1,2022-11-03,True,266,181-365 days,10,2022,6,2023
+427,Male,Smart TV,Brazil,2,31,4,Horror,Satisfied,1700,2022-11-06,2023-06-26,1,11,Basic,10,1,1,2022-12-06,True,232,181-365 days,11,2022,6,2023
+430,Female,Smart TV,Italy,2,35,4,Comedy,Neutral,4000,2022-11-22,2023-06-30,1,14,Basic,10,1,1,2022-12-22,True,220,181-365 days,11,2022,6,2023
+432,Female,Smart TV,Canada,2,34,4,Dramma,Satisfied,4000,2022-11-19,2023-06-30,1,12,Basic,10,1,1,2022-12-19,True,223,181-365 days,11,2022,6,2023
+435,Female,Smart TV,Germany,3,31,2,Horror,Neutral,3700,2022-10-17,2023-06-28,1,11,Basic,10,1,1,2022-11-16,True,254,181-365 days,10,2022,6,2023
+437,Male,Smart TV,Brazil,4,26,2,Action & Adventure,Satisfied,2100,2022-10-23,2023-06-25,1,13,Basic,10,1,1,2022-11-22,True,245,181-365 days,10,2022,6,2023
+440,Male,Tablet,Italy,3,32,2,Horror,Neutral,3500,2022-10-10,2023-06-29,1,11,Basic,10,1,1,2022-11-09,True,262,181-365 days,10,2022,6,2023
+442,Female,Laptop,Canada,1,30,3,Dramma,Extremely satisfied,4000,2022-07-01,2023-06-27,1,12,Basic,10,1,1,2022-07-31,True,361,181-365 days,7,2022,6,2023
+445,Male,Tablet,Germany,2,26,2,Action & Adventure,Neutral,3900,2022-06-24,2023-06-28,1,12,Basic,10,1,1,2022-07-24,True,369,>365 days,6,2022,6,2023
+446,Female,Smartphone,France,3,30,4,Horror,Neutral,3600,2022-06-28,2023-06-28,1,14,Basic,10,1,1,2022-07-28,True,365,181-365 days,6,2022,6,2023
+447,Female,Laptop,Brazil,3,29,4,Comedy,Extremely satisfied,1700,2022-08-11,2023-06-28,1,15,Basic,10,1,1,2022-09-10,True,321,181-365 days,8,2022,6,2023
+450,Male,Laptop,Italy,3,32,4,Horror,Neutral,3500,2022-08-06,2023-06-27,1,14,Basic,10,1,1,2022-09-05,True,325,181-365 days,8,2022,6,2023
+451,Female,Laptop,United States,4,33,3,Horror,Satisfied,4200,2022-07-18,2023-06-28,1,12,Basic,10,1,1,2022-08-17,True,345,181-365 days,7,2022,6,2023
+455,Female,Smart TV,Germany,5,26,4,Comedy,Satisfied,3900,2022-05-31,2023-06-27,1,11,Basic,10,1,1,2022-06-30,True,392,>365 days,5,2022,6,2023
+458,Male,Tablet,Mexico,1,28,4,Horror,Neutral,2200,2022-07-24,2023-06-28,1,10,Basic,10,1,1,2022-08-23,True,339,181-365 days,7,2022,6,2023
+461,Male,Smart TV,United States,1,26,4,Action & Adventure,Satisfied,3700,2022-06-16,2023-06-27,1,11,Basic,10,1,1,2022-07-16,True,376,>365 days,6,2022,6,2023
+464,Male,Laptop,Australia,1,26,3,Action & Adventure,Extremely satisfied,4100,2022-06-03,2023-06-28,1,13,Basic,10,1,1,2022-07-03,True,390,>365 days,6,2022,6,2023
+467,Female,Laptop,Brazil,2,32,4,Dramma,Satisfied,1700,2022-06-22,2023-06-26,1,10,Basic,10,1,1,2022-07-22,True,369,>365 days,6,2022,6,2023
+470,Female,Tablet,Italy,5,28,2,Horror,Satisfied,4200,2022-07-03,2023-06-28,1,15,Basic,10,1,1,2022-08-02,True,360,181-365 days,7,2022,6,2023
+472,Female,Tablet,Canada,2,26,4,Horror,Satisfied,4000,2022-07-13,2023-06-27,1,10,Basic,10,1,1,2022-08-12,True,349,181-365 days,7,2022,6,2023
+475,Female,Smart TV,Germany,3,34,4,Dramma,Extremely satisfied,3800,2022-08-13,2023-06-26,1,11,Basic,10,1,1,2022-09-12,True,317,181-365 days,8,2022,6,2023
+477,Male,Laptop,Brazil,5,31,2,Horror,Satisfied,2200,2022-08-24,2023-06-27,1,10,Basic,10,1,1,2022-09-23,True,307,181-365 days,8,2022,6,2023
+480,Female,Laptop,Italy,3,28,4,Dramma,Satisfied,3800,2022-09-04,2023-06-27,1,15,Basic,10,1,1,2022-10-04,True,296,181-365 days,9,2022,6,2023
+482,Male,Smart TV,Canada,4,32,3,Horror,Neutral,3800,2022-08-27,2023-06-27,1,11,Basic,10,1,1,2022-09-26,True,304,181-365 days,8,2022,6,2023
+485,Female,Tablet,Germany,2,34,3,Comedy,Extremely satisfied,3800,2022-09-01,2023-06-28,1,14,Basic,10,1,1,2022-10-01,True,300,181-365 days,9,2022,6,2023
+487,Male,Smart TV,Brazil,5,34,4,Action & Adventure,Satisfied,2200,2022-10-05,2023-06-29,1,15,Basic,10,1,1,2022-11-04,True,267,181-365 days,10,2022,6,2023
+490,Female,Smart TV,Italy,2,31,3,Comedy,Satisfied,4000,2022-10-18,2023-06-29,1,12,Basic,10,1,1,2022-11-17,True,254,181-365 days,10,2022,6,2023
+492,Male,Tablet,Canada,2,26,2,Horror,Extremely satisfied,3800,2022-09-17,2023-06-30,1,10,Basic,10,1,1,2022-10-17,True,286,181-365 days,9,2022,6,2023
+495,Male,Smartphone,Germany,5,26,3,Action & Adventure,Extremely satisfied,3500,2022-09-30,2023-06-27,1,13,Basic,10,1,1,2022-10-30,True,270,181-365 days,9,2022,6,2023
+497,Male,Smartphone,Brazil,4,30,2,Action & Adventure,Extremely satisfied,2100,2022-11-09,2023-06-29,1,11,Basic,10,1,1,2022-12-09,True,232,181-365 days,11,2022,6,2023
+500,Male,Laptop,Italy,2,31,4,Horror,Extremely dissatisfied,3800,2022-11-22,2023-06-30,1,15,Basic,10,1,1,2022-12-22,True,220,181-365 days,11,2022,6,2023
+502,Male,Smartphone,Spain,5,35,4,Horror,Neutral,3700,2022-11-21,2023-06-30,1,13,Basic,10,1,1,2022-12-21,True,221,181-365 days,11,2022,6,2023
+505,Male,Smartphone,United States,3,32,2,Horror,Neutral,4000,2022-10-21,2023-06-28,1,11,Basic,10,1,1,2022-11-20,True,250,181-365 days,10,2022,6,2023
+507,Female,Tablet,Canada,2,32,2,Comedy,Dissatisfied,3800,2022-10-24,2023-06-26,1,15,Basic,10,1,1,2022-11-23,True,245,181-365 days,10,2022,6,2023
+510,Female,Tablet,Germany,2,34,2,Comedy,Extremely satisfied,3800,2022-10-06,2023-06-29,1,15,Basic,10,1,1,2022-11-05,True,266,181-365 days,10,2022,6,2023
+512,Male,Tablet,Brazil,2,28,2,Horror,Extremely dissatisfied,1700,2022-07-13,2023-06-28,1,15,Basic,10,1,1,2022-08-12,True,350,181-365 days,7,2022,6,2023
+515,Female,Laptop,Italy,5,34,3,Comedy,Satisfied,3600,2022-07-01,2023-06-29,1,15,Basic,10,1,1,2022-07-31,True,363,181-365 days,7,2022,6,2023
+517,Female,Smart TV,Spain,3,31,4,Horror,Extremely dissatisfied,3900,2022-08-06,2023-06-28,1,12,Basic,10,1,1,2022-09-05,True,326,181-365 days,8,2022,6,2023
+520,Male,Smart TV,United States,1,28,4,Action & Adventure,Extremely dissatisfied,3900,2022-08-03,2023-06-28,1,13,Basic,10,1,1,2022-09-02,True,329,181-365 days,8,2022,6,2023
+521,Female,Smart TV,United States,1,28,4,Horror,Neutral,3600,2022-06-18,2023-06-28,1,15,Basic,10,1,1,2022-07-18,True,375,>365 days,6,2022,6,2023
+522,Female,Tablet,Canada,4,26,3,Comedy,Extremely dissatisfied,3400,2022-06-17,2023-06-27,1,14,Basic,10,1,1,2022-07-17,True,375,>365 days,6,2022,6,2023
+525,Male,Tablet,Germany,3,33,3,Horror,Extremely dissatisfied,3700,2022-06-04,2023-06-27,1,14,Basic,10,1,1,2022-07-04,True,388,>365 days,6,2022,6,2023
+526,Male,Laptop,France,2,29,2,Horror,Satisfied,3400,2022-06-20,2023-06-28,1,11,Basic,10,1,1,2022-07-20,True,373,>365 days,6,2022,6,2023
+530,Female,Smart TV,Italy,1,30,2,Dramma,Dissatisfied,3400,2022-06-22,2023-06-28,1,14,Basic,10,1,1,2022-07-22,True,371,>365 days,6,2022,6,2023
+533,Male,Smartphone,United States,4,27,2,Horror,Dissatisfied,4000,2022-06-04,2023-06-27,1,14,Basic,10,1,1,2022-07-04,True,388,>365 days,6,2022,6,2023
+536,Male,Smart TV,United States,4,30,2,Action & Adventure,Extremely dissatisfied,3500,2022-06-14,2023-06-29,1,10,Basic,10,1,1,2022-07-14,True,380,>365 days,6,2022,6,2023
+539,Female,Tablet,Australia,3,26,2,Comedy,Dissatisfied,3400,2022-07-02,2023-06-29,1,12,Basic,10,1,1,2022-08-01,True,362,181-365 days,7,2022,6,2023
+542,Male,Smartphone,Brazil,3,34,2,Horror,Extremely satisfied,2000,2022-07-26,2023-06-27,1,14,Basic,10,1,1,2022-08-25,True,336,181-365 days,7,2022,6,2023
+545,Male,Smart TV,Italy,5,35,2,Comedy,Extremely dissatisfied,3800,2022-08-17,2023-06-27,1,14,Basic,10,1,1,2022-09-16,True,314,181-365 days,8,2022,6,2023
+547,Male,Tablet,Spain,2,26,3,Dramma,Extremely satisfied,3700,2022-09-05,2023-06-27,1,10,Basic,10,1,1,2022-10-05,True,295,181-365 days,9,2022,6,2023
+550,Female,Tablet,United States,2,27,2,Comedy,Neutral,4000,2022-09-06,2023-06-27,1,11,Basic,10,1,1,2022-10-06,True,294,181-365 days,9,2022,6,2023
+552,Female,Tablet,Canada,2,28,4,Horror,Extremely satisfied,3700,2022-08-29,2023-06-27,1,13,Basic,10,1,1,2022-09-28,True,302,181-365 days,8,2022,6,2023
+555,Female,Smartphone,Germany,5,33,2,Others,Dissatisfied,4100,2022-09-13,2023-06-28,1,11,Basic,10,1,1,2022-10-13,True,288,181-365 days,9,2022,6,2023
+557,Male,Smartphone,Brazil,1,32,2,Others,Extremely dissatisfied,2000,2022-10-05,2023-06-29,1,15,Basic,10,1,1,2022-11-04,True,267,181-365 days,10,2022,6,2023
+560,Male,Laptop,Italy,5,30,2,Horror,Extremely satisfied,3700,2022-10-14,2023-06-29,1,15,Basic,10,1,1,2022-11-13,True,258,181-365 days,10,2022,6,2023
+562,Male,Laptop,Spain,3,34,4,Comedy,Extremely satisfied,3400,2022-09-19,2023-06-30,1,14,Basic,10,1,1,2022-10-19,True,284,181-365 days,9,2022,6,2023
+565,Male,Laptop,United States,5,27,4,Comedy,Extremely dissatisfied,3800,2022-09-29,2023-06-27,1,12,Basic,10,1,1,2022-10-29,True,271,181-365 days,9,2022,6,2023
+567,Male,Smart TV,Canada,3,31,4,Others,Neutral,3400,2022-11-08,2023-06-29,1,14,Basic,10,1,1,2022-12-08,True,233,181-365 days,11,2022,6,2023
+570,Female,Laptop,Germany,5,29,3,Horror,Neutral,3600,2022-11-20,2023-06-30,1,10,Basic,10,1,1,2022-12-20,True,222,181-365 days,11,2022,6,2023
+572,Female,Tablet,Brazil,1,33,3,Dramma,Extremely satisfied,1700,2022-11-21,2023-06-30,1,12,Basic,10,1,1,2022-12-21,True,221,181-365 days,11,2022,6,2023
+575,Female,Smart TV,Italy,5,30,3,Action & Adventure,Satisfied,3500,2022-10-25,2023-06-28,1,13,Basic,10,1,1,2022-11-24,True,246,181-365 days,10,2022,6,2023
+577,Male,Laptop,Spain,1,34,2,Comedy,Satisfied,3900,2022-10-23,2023-06-26,1,15,Basic,10,1,1,2022-11-22,True,246,181-365 days,10,2022,6,2023
+580,Female,Tablet,United States,4,44,1,Others,Dissatisfied,4100,2022-08-09,2023-06-29,1,14,Basic,10,1,1,2022-09-08,True,324,181-365 days,8,2022,6,2023
+582,Female,Laptop,Canada,4,35,3,Comedy,Dissatisfied,4200,2022-07-16,2023-06-28,1,12,Basic,10,1,1,2022-08-15,True,347,181-365 days,7,2022,6,2023
+585,Male,Laptop,Germany,1,45,1,Comedy,Dissatisfied,3600,2022-07-16,2023-06-29,1,14,Basic,10,1,1,2022-08-15,True,348,181-365 days,7,2022,6,2023
+587,Male,Smart TV,Brazil,1,43,3,Dramma,Satisfied,2000,2022-08-07,2023-06-28,1,14,Basic,10,1,1,2022-09-06,True,325,181-365 days,8,2022,6,2023
+590,Male,Laptop,Italy,1,39,3,Dramma,Dissatisfied,4000,2022-07-29,2023-06-29,1,15,Basic,10,1,1,2022-08-28,True,335,181-365 days,7,2022,6,2023
+592,Male,Smartphone,Spain,3,37,3,Comedy,Dissatisfied,3900,2022-06-09,2023-06-29,1,15,Basic,10,1,1,2022-07-09,True,385,>365 days,6,2022,6,2023
+595,Male,Laptop,United States,4,45,1,Dramma,Satisfied,4200,2022-06-11,2023-06-28,1,10,Basic,10,1,1,2022-07-11,True,382,>365 days,6,2022,6,2023
+596,Female,Smart TV,United States,3,39,2,Dramma,Satisfied,4100,2022-06-18,2023-06-28,1,14,Basic,10,1,1,2022-07-18,True,375,>365 days,6,2022,6,2023
+597,Male,Laptop,Canada,2,39,1,Action & Adventure,Neutral,3800,2022-06-27,2023-06-28,1,13,Basic,10,1,1,2022-07-27,True,366,>365 days,6,2022,6,2023
+600,Female,Smart TV,Germany,5,38,2,Comedy,Dissatisfied,4200,2022-06-16,2023-06-29,1,14,Basic,10,1,1,2022-07-16,True,378,>365 days,6,2022,6,2023
+601,Female,Smart TV,France,1,37,2,Action & Adventure,Neutral,4100,2022-06-05,2023-06-30,1,14,Basic,10,1,1,2022-07-05,True,390,>365 days,6,2022,6,2023
+605,Female,Tablet,Italy,5,40,1,Comedy,Neutral,3600,2022-06-10,2023-06-29,1,15,Basic,10,1,1,2022-07-10,True,384,>365 days,6,2022,6,2023
+608,Female,Smart TV,United States,2,42,1,Horror,Neutral,3900,2022-06-22,2023-06-28,1,12,Basic,10,1,1,2022-07-22,True,371,>365 days,6,2022,6,2023
+611,Female,Smartphone,United States,3,39,3,Horror,Neutral,3400,2022-07-11,2023-06-28,1,15,Basic,10,1,1,2022-08-10,True,352,181-365 days,7,2022,6,2023
+614,Male,Smartphone,Australia,1,37,1,Horror,Neutral,3700,2022-08-14,2023-06-28,1,15,Basic,10,1,1,2022-09-13,True,318,181-365 days,8,2022,6,2023
+617,Female,Smartphone,Brazil,3,37,3,Dramma,Neutral,1800,2022-09-05,2023-06-28,1,11,Basic,10,1,1,2022-10-05,True,296,181-365 days,9,2022,6,2023
+620,Female,Smartphone,Italy,3,42,2,Action & Adventure,Satisfied,4100,2022-09-05,2023-06-27,1,11,Basic,10,1,1,2022-10-05,True,295,181-365 days,9,2022,6,2023
+622,Male,Smartphone,Spain,4,41,2,Others,Dissatisfied,3900,2022-08-29,2023-06-28,1,12,Basic,10,1,1,2022-09-28,True,303,181-365 days,8,2022,6,2023
+625,Male,Tablet,United States,1,35,4,Comedy,Neutral,3800,2022-09-20,2023-06-28,1,15,Basic,10,1,1,2022-10-20,True,281,181-365 days,9,2022,6,2023
+627,Female,Smart TV,Canada,3,41,2,Action & Adventure,Neutral,4100,2022-09-29,2023-06-29,1,11,Basic,10,1,1,2022-10-29,True,273,181-365 days,9,2022,6,2023
+630,Female,Smart TV,Germany,3,41,3,Comedy,Dissatisfied,3800,2022-10-06,2023-06-30,1,15,Basic,10,1,1,2022-11-05,True,267,181-365 days,10,2022,6,2023
+632,Male,Smartphone,Brazil,2,38,2,Action & Adventure,Dissatisfied,1900,2022-09-23,2023-07-01,1,13,Basic,10,1,1,2022-10-23,True,281,181-365 days,9,2022,7,2023
+635,Male,Laptop,Italy,3,43,3,Action & Adventure,Dissatisfied,4100,2022-10-03,2023-06-27,1,13,Basic,10,1,1,2022-11-02,True,267,181-365 days,10,2022,6,2023
+637,Female,Tablet,Spain,1,36,2,Others,Satisfied,4100,2022-11-14,2023-06-29,1,12,Basic,10,1,1,2022-12-14,True,227,181-365 days,11,2022,6,2023
+640,Female,Laptop,United States,2,36,2,Others,Satisfied,4200,2022-11-20,2023-06-30,1,13,Basic,10,1,1,2022-12-20,True,222,181-365 days,11,2022,6,2023
+642,Male,Laptop,Canada,5,41,1,Action & Adventure,Satisfied,3600,2022-11-19,2023-07-01,1,11,Basic,10,1,1,2022-12-19,True,224,181-365 days,11,2022,7,2023
+645,Male,Laptop,Germany,4,39,2,Dramma,Satisfied,3900,2022-10-27,2023-06-29,1,13,Basic,10,1,1,2022-11-26,True,245,181-365 days,10,2022,6,2023
+647,Male,Smart TV,Brazil,4,45,3,Others,Dissatisfied,1900,2022-10-25,2023-06-28,1,15,Basic,10,1,1,2022-11-24,True,246,181-365 days,10,2022,6,2023
+650,Female,Smart TV,Italy,3,36,1,Horror,Satisfied,4100,2022-08-16,2023-06-29,1,15,Basic,10,1,1,2022-09-15,True,317,181-365 days,8,2022,6,2023
+652,Female,Smartphone,Spain,2,41,3,Dramma,Neutral,3700,2022-08-15,2023-06-29,1,14,Basic,10,1,1,2022-09-14,True,318,181-365 days,8,2022,6,2023
+655,Male,Tablet,United States,2,45,1,Action & Adventure,Neutral,3900,2022-07-26,2023-06-29,1,11,Basic,10,1,1,2022-08-25,True,338,181-365 days,7,2022,6,2023
+657,Female,Smart TV,Canada,3,45,2,Action & Adventure,Neutral,4100,2022-08-03,2023-06-29,1,14,Basic,10,1,1,2022-09-02,True,330,181-365 days,8,2022,6,2023
+660,Male,Smart TV,Germany,1,37,1,Others,Neutral,3900,2022-06-27,2023-06-29,1,12,Basic,10,1,1,2022-07-27,True,367,>365 days,6,2022,6,2023
+662,Male,Tablet,Brazil,4,39,3,Comedy,Satisfied,2400,2022-06-15,2023-06-29,1,15,Basic,10,1,1,2022-07-15,True,379,>365 days,6,2022,6,2023
+665,Male,Smartphone,Italy,5,35,4,Dramma,Neutral,4200,2022-06-18,2023-06-28,1,10,Basic,10,1,1,2022-07-18,True,375,>365 days,6,2022,6,2023
+667,Female,Smartphone,Spain,2,38,1,Horror,Dissatisfied,3800,2022-06-30,2023-06-30,1,11,Basic,10,1,1,2022-07-30,True,365,181-365 days,6,2022,6,2023
+670,Male,Smart TV,United States,1,44,1,Dramma,Satisfied,3500,2022-06-08,2023-06-29,1,10,Basic,10,1,1,2022-07-08,True,386,>365 days,6,2022,6,2023
+671,Male,Tablet,United States,2,40,1,Action & Adventure,Dissatisfied,3700,2022-06-08,2023-06-30,1,10,Basic,10,1,1,2022-07-08,True,387,>365 days,6,2022,6,2023
+672,Female,Tablet,Canada,2,38,1,Comedy,Neutral,4100,2022-06-09,2023-06-30,1,14,Basic,10,1,1,2022-07-09,True,386,>365 days,6,2022,6,2023
+675,Female,Tablet,Germany,2,39,3,Horror,Satisfied,3600,2022-06-11,2023-06-29,1,11,Basic,10,1,1,2022-07-11,True,383,>365 days,6,2022,6,2023
+676,Male,Smartphone,France,4,39,1,Others,Neutral,3600,2022-06-13,2023-06-29,1,11,Basic,10,1,1,2022-07-13,True,381,>365 days,6,2022,6,2023
+680,Female,Laptop,Italy,4,41,2,Others,Neutral,3600,2022-07-07,2023-06-29,1,15,Basic,10,1,1,2022-08-06,True,357,181-365 days,7,2022,6,2023
+683,Male,Smartphone,United States,1,41,3,Comedy,Dissatisfied,3900,2022-08-03,2023-06-29,1,13,Basic,10,1,1,2022-09-02,True,330,181-365 days,8,2022,6,2023
+686,Male,Tablet,United States,5,44,1,Horror,Satisfied,4000,2022-08-18,2023-06-28,1,14,Basic,10,1,1,2022-09-17,True,314,181-365 days,8,2022,6,2023
+689,Female,Smart TV,Australia,4,40,1,Dramma,Satisfied,3500,2022-09-04,2023-06-29,1,15,Basic,10,1,1,2022-10-04,True,298,181-365 days,9,2022,6,2023
+692,Male,Tablet,Brazil,4,36,2,Dramma,Dissatisfied,1900,2022-08-31,2023-06-30,1,15,Basic,10,1,1,2022-09-30,True,303,181-365 days,8,2022,6,2023
+695,Male,Laptop,Italy,4,38,2,Horror,Dissatisfied,4000,2022-09-21,2023-06-28,1,13,Basic,10,1,1,2022-10-21,True,280,181-365 days,9,2022,6,2023
+697,Male,Smart TV,Spain,5,38,1,Dramma,Satisfied,4200,2022-10-06,2023-06-29,1,12,Basic,10,1,1,2022-11-05,True,266,181-365 days,10,2022,6,2023
+700,Female,Laptop,United States,1,45,3,Comedy,Satisfied,4100,2022-10-04,2023-06-30,1,12,Basic,10,1,1,2022-11-03,True,269,181-365 days,10,2022,6,2023
+702,Male,Smartphone,Canada,5,39,1,Comedy,Satisfied,4200,2022-09-25,2023-07-01,1,14,Basic,10,1,1,2022-10-25,True,279,181-365 days,9,2022,7,2023
+705,Male,Laptop,Germany,4,41,1,Dramma,Satisfied,3400,2022-10-04,2023-06-28,1,13,Basic,10,1,1,2022-11-03,True,267,181-365 days,10,2022,6,2023
+707,Male,Smart TV,Brazil,5,39,3,Others,Dissatisfied,2200,2022-10-28,2023-06-30,1,12,Basic,10,1,1,2022-11-27,True,245,181-365 days,10,2022,6,2023
+710,Female,Smart TV,Italy,4,36,1,Others,Dissatisfied,3600,2022-11-10,2023-06-30,1,10,Basic,10,1,1,2022-12-10,True,232,181-365 days,11,2022,6,2023
+712,Male,Tablet,Spain,1,41,2,Others,Satisfied,4100,2022-11-08,2023-07-01,1,13,Basic,10,1,1,2022-12-08,True,235,181-365 days,11,2022,7,2023
+715,Female,Laptop,United States,5,40,2,Horror,Dissatisfied,4200,2022-10-28,2023-06-29,1,12,Basic,10,1,1,2022-11-27,True,244,181-365 days,10,2022,6,2023
+717,Female,Tablet,Canada,1,36,1,Dramma,Dissatisfied,3400,2022-10-18,2023-06-29,1,15,Basic,10,1,1,2022-11-17,True,254,181-365 days,10,2022,6,2023
+720,Female,Tablet,Germany,1,37,1,Action & Adventure,Dissatisfied,4200,2022-08-23,2023-06-29,1,10,Basic,10,1,1,2022-09-22,True,310,181-365 days,8,2022,6,2023
+722,Male,Smartphone,Brazil,2,44,2,Action & Adventure,Extremely satisfied,2200,2022-08-11,2023-06-30,1,13,Basic,10,1,1,2022-09-10,True,323,181-365 days,8,2022,6,2023
+725,Female,Tablet,Italy,4,40,3,Comedy,Extremely satisfied,4000,2022-08-01,2023-06-29,1,12,Basic,10,1,1,2022-08-31,True,332,181-365 days,8,2022,6,2023
+727,Female,Laptop,Spain,5,38,2,Others,Dissatisfied,4100,2022-08-04,2023-06-29,1,11,Basic,10,1,1,2022-09-03,True,329,181-365 days,8,2022,6,2023
+730,Female,Smartphone,United States,1,36,2,Comedy,Extremely satisfied,3500,2022-06-27,2023-06-30,1,12,Basic,10,1,1,2022-07-27,True,368,>365 days,6,2022,6,2023
+732,Male,Tablet,Canada,2,35,2,Action & Adventure,Extremely satisfied,4100,2022-06-19,2023-06-29,1,12,Basic,10,1,1,2022-07-19,True,375,>365 days,6,2022,6,2023
+735,Male,Laptop,Germany,4,43,3,Others,Dissatisfied,4200,2022-06-24,2023-06-28,1,14,Basic,10,1,1,2022-07-24,True,369,>365 days,6,2022,6,2023
+737,Female,Tablet,Brazil,2,42,2,Others,Satisfied,1900,2022-07-02,2023-06-30,1,15,Basic,10,1,1,2022-08-01,True,363,181-365 days,7,2022,6,2023
+740,Male,Tablet,Italy,5,41,2,Comedy,Extremely satisfied,3700,2022-06-16,2023-06-29,1,14,Basic,10,1,1,2022-07-16,True,378,>365 days,6,2022,6,2023
+742,Male,Smartphone,Spain,3,61,2,Horror,Extremely satisfied,3800,2022-06-10,2023-06-30,1,13,Basic,10,1,1,2022-07-10,True,385,>365 days,6,2022,6,2023
+745,Female,Laptop,United States,5,65,2,Horror,Dissatisfied,4200,2022-06-12,2023-06-30,1,11,Basic,10,1,1,2022-07-12,True,383,>365 days,6,2022,6,2023
+746,Male,Smartphone,United States,4,70,3,Action & Adventure,Satisfied,3500,2022-06-15,2023-06-30,1,15,Basic,10,1,1,2022-07-15,True,380,>365 days,6,2022,6,2023
+747,Male,Smart TV,Canada,3,49,1,Horror,Satisfied,3700,2022-06-25,2023-06-29,1,11,Basic,10,1,1,2022-07-25,True,369,>365 days,6,2022,6,2023
+750,Male,Smart TV,Germany,2,64,1,Dramma,Satisfied,3800,2022-07-09,2023-06-29,1,13,Basic,10,1,1,2022-08-08,True,355,181-365 days,7,2022,6,2023
+751,Female,Laptop,France,5,63,1,Others,Satisfied,3800,2022-07-18,2023-06-29,1,14,Basic,10,1,1,2022-08-17,True,346,181-365 days,7,2022,6,2023
+755,Male,Tablet,Italy,4,52,2,Dramma,Extremely satisfied,3500,2022-08-16,2023-06-30,1,13,Basic,10,1,1,2022-09-15,True,318,181-365 days,8,2022,6,2023
+758,Male,Laptop,United States,3,68,3,Dramma,Extremely satisfied,3600,2022-09-04,2023-06-29,1,12,Basic,10,1,1,2022-10-04,True,298,181-365 days,9,2022,6,2023
+761,Female,Smart TV,United States,3,56,3,Others,Extremely satisfied,3600,2022-08-31,2023-06-29,1,11,Basic,10,1,1,2022-09-30,True,302,181-365 days,8,2022,6,2023
+764,Male,Smart TV,Australia,1,59,2,Comedy,Dissatisfied,3800,2022-09-18,2023-07-03,1,15,Basic,10,1,1,2022-10-18,True,288,181-365 days,9,2022,7,2023
+767,Male,Laptop,Brazil,2,70,3,Action & Adventure,Dissatisfied,2300,2022-10-07,2023-06-29,1,15,Basic,10,1,1,2022-11-06,True,265,181-365 days,10,2022,6,2023
+770,Female,Laptop,Italy,2,59,3,Horror,Extremely satisfied,4000,2022-10-03,2023-07-01,1,11,Basic,10,1,1,2022-11-02,True,271,181-365 days,10,2022,7,2023
+772,Male,Laptop,Spain,2,67,3,Comedy,Extremely satisfied,3500,2022-10-02,2023-07-01,1,12,Basic,10,1,1,2022-11-01,True,272,181-365 days,10,2022,7,2023
+775,Male,Tablet,United States,3,52,3,Others,Dissatisfied,3500,2022-10-20,2023-06-28,1,11,Basic,10,1,1,2022-11-19,True,251,181-365 days,10,2022,6,2023
+777,Male,Smartphone,Canada,5,52,3,Action & Adventure,Satisfied,4100,2022-10-28,2023-06-30,1,11,Basic,10,1,1,2022-11-27,True,245,181-365 days,10,2022,6,2023
+780,Female,Laptop,Germany,5,62,2,Action & Adventure,Satisfied,3500,2022-11-12,2023-06-30,1,15,Basic,10,1,1,2022-12-12,True,230,181-365 days,11,2022,6,2023
+782,Female,Laptop,Brazil,3,61,2,Dramma,Satisfied,1700,2022-11-02,2023-07-01,1,13,Basic,10,1,1,2022-12-02,True,241,181-365 days,11,2022,7,2023
+785,Female,Laptop,Italy,4,57,1,Others,Extremely satisfied,3600,2022-10-28,2023-06-29,1,12,Basic,10,1,1,2022-11-27,True,244,181-365 days,10,2022,6,2023
+787,Female,Laptop,Spain,3,64,3,Action & Adventure,Neutral,4000,2022-10-03,2023-06-29,1,12,Basic,10,1,1,2022-11-02,True,269,181-365 days,10,2022,6,2023
+790,Female,Smartphone,United States,4,65,1,Others,Dissatisfied,3600,2022-08-30,2023-06-30,1,14,Basic,10,1,1,2022-09-29,True,304,181-365 days,8,2022,6,2023
+792,Male,Smart TV,Canada,4,64,2,Others,Satisfied,4200,2022-08-11,2023-06-30,1,12,Basic,10,1,1,2022-09-10,True,323,181-365 days,8,2022,6,2023
+795,Male,Smartphone,Germany,1,63,3,Others,Satisfied,4200,2022-08-03,2023-07-01,1,11,Basic,10,1,1,2022-09-02,True,332,181-365 days,8,2022,7,2023
+797,Male,Tablet,Brazil,1,49,1,Horror,Satisfied,2000,2022-08-05,2023-06-30,1,10,Basic,10,1,1,2022-09-04,True,329,181-365 days,8,2022,6,2023
+800,Male,Smartphone,Italy,2,54,2,Horror,Dissatisfied,3700,2022-06-26,2023-06-30,1,12,Basic,10,1,1,2022-07-26,True,369,>365 days,6,2022,6,2023
+802,Female,Smartphone,Spain,4,64,1,Others,Satisfied,3600,2022-06-22,2023-06-30,1,13,Basic,10,1,1,2022-07-22,True,373,>365 days,6,2022,6,2023
+805,Female,Laptop,United States,5,46,1,Comedy,Neutral,3800,2022-06-27,2023-06-28,1,15,Basic,10,1,1,2022-07-27,True,366,>365 days,6,2022,6,2023
+807,Male,Tablet,Canada,4,49,1,Action & Adventure,Extremely satisfied,4200,2022-06-28,2023-06-30,1,11,Basic,10,1,1,2022-07-28,True,367,>365 days,6,2022,6,2023
+810,Male,Smartphone,Germany,1,48,1,Dramma,Extremely dissatisfied,3700,2022-06-09,2023-06-29,1,13,Basic,10,1,1,2022-07-09,True,385,>365 days,6,2022,6,2023
+812,Male,Laptop,Brazil,4,46,2,Horror,Extremely dissatisfied,2100,2022-06-11,2023-07-01,1,15,Basic,10,1,1,2022-07-11,True,385,>365 days,6,2022,7,2023
+815,Male,Smartphone,Italy,5,48,1,Dramma,Extremely dissatisfied,3800,2022-06-13,2023-06-30,1,15,Basic,10,1,1,2022-07-13,True,382,>365 days,6,2022,6,2023
+817,Female,Tablet,Spain,3,60,1,Dramma,Extremely satisfied,3900,2022-06-29,2023-06-30,1,15,Basic,10,1,1,2022-07-29,True,366,>365 days,6,2022,6,2023
+820,Female,Tablet,United States,1,67,2,Comedy,Neutral,3500,2022-07-07,2023-06-30,1,11,Basic,10,1,1,2022-08-06,True,358,181-365 days,7,2022,6,2023
+821,Female,Laptop,United States,1,50,1,Others,Extremely satisfied,3900,2022-07-13,2023-06-29,1,12,Basic,10,1,1,2022-08-12,True,351,181-365 days,7,2022,6,2023
+822,Male,Laptop,Canada,4,46,1,Action & Adventure,Satisfied,3600,2022-07-24,2023-06-29,1,11,Basic,10,1,1,2022-08-23,True,340,181-365 days,7,2022,6,2023
+3,Male,Smart TV,United Kingdom,3,22,8,Action & Adventure,Neutral,800,2023-02-28,2023-06-27,2,12,Standard,12,2,1,2023-03-30,True,119,91-180 days,2,2023,6,2023
+4,Female,Laptop,Australia,4,24,8,Horror,Extremely satisfied,600,2022-07-10,2023-06-26,2,12,Standard,12,2,1,2022-08-09,True,351,181-365 days,7,2022,6,2023
+7,Male,Tablet,Brazil,3,19,9,Horror,Satisfied,700,2021-12-09,2023-06-25,2,12,Standard,12,2,1,2022-01-08,True,563,>365 days,12,2021,6,2023
+9,Male,Smartphone,Spain,4,22,8,Horror,Satisfied,900,2022-10-20,2023-06-23,2,12,Standard,12,2,1,2022-11-19,True,246,181-365 days,10,2022,6,2023
+13,Female,Laptop,United Kingdom,4,20,6,Horror,Neutral,1000,2021-11-30,2023-06-27,2,12,Standard,12,2,1,2021-12-30,True,574,>365 days,11,2021,6,2023
+15,Female,Smart TV,Germany,3,25,8,Dramma,Satisfied,800,2023-05-09,2023-06-28,2,12,Standard,12,2,1,2023-06-08,True,50,31-60 days,5,2023,6,2023
+18,Male,Smartphone,Mexico,4,21,7,Horror,Satisfied,600,2021-10-18,2023-06-24,2,12,Standard,12,2,1,2021-11-17,True,614,>365 days,10,2021,6,2023
+23,Female,Smart TV,United Kingdom,2,18,10,Dramma,Extremely satisfied,700,2021-12-05,2023-06-27,2,12,Standard,12,2,1,2022-01-04,True,569,>365 days,12,2021,6,2023
+24,Male,Tablet,Australia,3,19,7,Horror,Extremely satisfied,900,2022-04-03,2023-06-26,2,12,Standard,12,2,1,2022-05-03,True,449,>365 days,4,2022,6,2023
+28,Male,Tablet,Mexico,3,17,6,Horror,Extremely satisfied,600,2021-09-27,2023-06-24,2,12,Standard,12,2,1,2021-10-27,True,635,>365 days,9,2021,6,2023
+33,Female,Laptop,United Kingdom,2,19,10,Comedy,Neutral,600,2022-01-21,2023-06-27,2,12,Standard,12,2,1,2022-02-20,True,522,>365 days,1,2022,6,2023
+34,Male,Smartphone,Australia,4,18,7,Action & Adventure,Neutral,700,2022-05-25,2023-06-26,2,12,Standard,12,2,1,2022-06-24,True,397,>365 days,5,2022,6,2023
+38,Male,Smartphone,Mexico,4,21,7,Action & Adventure,Neutral,500,2021-11-05,2023-06-24,2,12,Standard,12,2,1,2021-12-05,True,596,>365 days,11,2021,6,2023
+43,Female,Smart TV,United Kingdom,4,22,6,Dramma,Extremely satisfied,800,2022-02-07,2023-06-27,2,12,Standard,12,2,1,2022-03-09,True,505,>365 days,2,2022,6,2023
+44,Male,Tablet,Australia,4,17,9,Horror,Satisfied,900,2022-04-26,2023-06-26,2,12,Standard,12,2,1,2022-05-26,True,426,>365 days,4,2022,6,2023
+48,Male,Tablet,Mexico,3,25,8,Horror,Extremely satisfied,700,2021-09-15,2023-06-24,2,12,Standard,12,2,1,2021-10-15,True,647,>365 days,9,2021,6,2023
+53,Female,Laptop,United Kingdom,4,18,8,Dramma,Extremely satisfied,1000,2022-01-13,2023-06-27,2,12,Standard,12,2,1,2022-02-12,True,530,>365 days,1,2022,6,2023
+54,Male,Smartphone,Australia,2,17,6,Horror,Extremely satisfied,800,2022-06-30,2023-06-26,2,12,Standard,12,2,1,2022-07-30,True,361,181-365 days,6,2022,6,2023
+58,Male,Smartphone,Mexico,4,21,9,Horror,Satisfied,800,2021-10-08,2023-06-24,2,12,Standard,12,2,1,2021-11-07,True,624,>365 days,10,2021,6,2023
+63,Female,Smart TV,United Kingdom,4,25,10,Horror,Neutral,800,2022-02-23,2023-06-27,2,12,Standard,12,2,1,2022-03-25,True,489,>365 days,2,2022,6,2023
+64,Male,Tablet,Australia,2,19,9,Horror,Extremely satisfied,900,2022-06-20,2023-06-26,2,12,Standard,12,2,1,2022-07-20,True,371,>365 days,6,2022,6,2023
+68,Male,Tablet,Mexico,4,22,9,Action & Adventure,Neutral,600,2021-11-09,2023-06-24,2,12,Standard,12,2,1,2021-12-09,True,592,>365 days,11,2021,6,2023
+73,Female,Laptop,United Kingdom,3,17,8,Horror,Extremely satisfied,700,2022-09-27,2023-06-26,2,12,Standard,12,2,1,2022-10-27,True,272,181-365 days,9,2022,6,2023
+78,Male,Tablet,Mexico,3,25,8,Action & Adventure,Satisfied,800,2022-11-18,2023-06-28,2,15,Standard,12,2,1,2022-12-18,True,222,181-365 days,11,2022,6,2023
+79,Female,Laptop,Spain,2,21,9,Comedy,Satisfied,700,2022-12-03,2023-06-25,2,15,Standard,12,2,1,2023-01-02,True,204,181-365 days,12,2022,6,2023
+82,Male,Laptop,Canada,2,19,6,Horror,Neutral,800,2022-12-07,2023-06-28,2,12,Standard,12,2,1,2023-01-06,True,203,181-365 days,12,2022,6,2023
+84,Male,Smartphone,Australia,3,20,9,Action & Adventure,Extremely satisfied,800,2023-04-13,2023-06-25,2,12,Standard,12,2,1,2023-05-13,True,73,61-90 days,4,2023,6,2023
+88,Male,Tablet,Mexico,4,17,10,Horror,Extremely satisfied,500,2022-09-27,2023-06-28,2,12,Standard,12,2,1,2022-10-27,True,274,181-365 days,9,2022,6,2023
+90,Female,Smartphone,Italy,4,20,10,Horror,Neutral,1000,2023-02-03,2023-06-23,2,13,Standard,12,2,1,2023-03-05,True,140,91-180 days,2,2023,6,2023
+93,Male,Smartphone,United Kingdom,4,22,6,Action & Adventure,Neutral,900,2022-02-05,2023-06-26,2,12,Standard,12,2,1,2022-03-07,True,506,>365 days,2,2022,6,2023
+98,Female,Tablet,Mexico,2,17,8,Horror,Satisfied,500,2022-03-07,2023-06-28,2,13,Standard,12,2,1,2022-04-06,True,478,>365 days,3,2022,6,2023
+99,Female,Tablet,Spain,4,22,6,Dramma,Neutral,900,2023-01-13,2023-06-24,2,12,Standard,12,2,1,2023-02-12,True,162,91-180 days,1,2023,6,2023
+103,Male,Laptop,United Kingdom,3,25,7,Action & Adventure,Extremely satisfied,600,2022-04-04,2023-06-26,2,13,Standard,12,2,1,2022-05-04,True,448,>365 days,4,2022,6,2023
+108,Female,Smart TV,Mexico,4,21,10,Comedy,Neutral,700,2022-05-24,2023-06-25,2,12,Standard,12,2,1,2022-06-23,True,397,>365 days,5,2022,6,2023
+109,Female,Tablet,Spain,3,21,10,Dramma,Satisfied,600,2023-02-08,2023-06-25,2,13,Standard,12,2,1,2023-03-10,True,137,91-180 days,2,2023,6,2023
+113,Male,Tablet,United Kingdom,2,18,9,Action & Adventure,Neutral,700,2022-05-07,2023-06-26,2,15,Standard,12,2,1,2022-06-06,True,415,>365 days,5,2022,6,2023
+118,Male,Smartphone,Mexico,4,21,6,Action & Adventure,Satisfied,700,2022-08-07,2023-06-27,2,12,Standard,12,2,1,2022-09-06,True,324,181-365 days,8,2022,6,2023
+119,Female,Smartphone,Spain,4,20,8,Dramma,Extremely satisfied,1000,2022-09-20,2023-06-25,2,11,Standard,12,2,1,2022-10-20,True,278,181-365 days,9,2022,6,2023
+123,Female,Smartphone,United Kingdom,3,22,9,Comedy,Extremely satisfied,1000,2022-05-25,2023-06-26,2,13,Standard,12,2,1,2022-06-24,True,397,>365 days,5,2022,6,2023
+128,Male,Smartphone,Mexico,4,17,10,Action & Adventure,Satisfied,700,2022-10-06,2023-06-27,2,12,Standard,12,2,1,2022-11-05,True,264,181-365 days,10,2022,6,2023
+129,Male,Smart TV,Spain,4,20,10,Horror,Extremely satisfied,1000,2022-11-05,2023-06-23,2,13,Standard,12,2,1,2022-12-05,True,230,181-365 days,11,2022,6,2023
+133,Male,Smart TV,United Kingdom,3,22,6,Action & Adventure,Extremely satisfied,700,2022-06-24,2023-06-26,2,13,Standard,12,2,1,2022-07-24,True,367,>365 days,6,2022,6,2023
+138,Male,Laptop,Mexico,4,22,10,Action & Adventure,Neutral,600,2022-09-21,2023-06-23,2,15,Standard,12,2,1,2022-10-21,True,275,181-365 days,9,2022,6,2023
+139,Male,Smartphone,Spain,4,22,9,Horror,Neutral,600,2023-03-24,2023-06-23,2,13,Standard,12,2,1,2023-04-23,True,91,91-180 days,3,2023,6,2023
+143,Female,Tablet,United Kingdom,4,22,7,Horror,Satisfied,900,2022-08-31,2023-06-24,2,14,Standard,12,2,1,2022-09-30,True,297,181-365 days,8,2022,6,2023
+148,Female,Smartphone,Mexico,3,20,6,Comedy,Extremely satisfied,600,2022-11-27,2023-06-28,2,15,Standard,12,2,1,2022-12-27,True,213,181-365 days,11,2022,6,2023
+153,Male,Smartphone,United Kingdom,4,19,8,Action & Adventure,Satisfied,800,2022-12-25,2023-06-24,2,11,Standard,12,2,1,2023-01-24,True,181,181-365 days,12,2022,6,2023
+154,Male,Laptop,Australia,4,19,6,Horror,Satisfied,800,2023-03-11,2023-06-27,2,11,Standard,12,2,1,2023-04-10,True,108,91-180 days,3,2023,6,2023
+157,Male,Laptop,Brazil,4,25,9,Horror,Extremely satisfied,700,2022-09-27,2023-06-24,2,14,Standard,12,2,1,2022-10-27,True,270,181-365 days,9,2022,6,2023
+159,Female,Smart TV,Spain,2,18,6,Dramma,Neutral,700,2022-12-21,2023-06-26,2,10,Standard,12,2,1,2023-01-20,True,187,181-365 days,12,2022,6,2023
+163,Male,Laptop,United Kingdom,3,19,7,Action & Adventure,Extremely satisfied,900,2022-04-05,2023-06-26,2,11,Standard,12,2,1,2022-05-05,True,447,>365 days,4,2022,6,2023
+165,Male,Tablet,Germany,3,24,6,Horror,Extremely satisfied,800,2022-05-25,2023-06-25,2,14,Standard,12,2,1,2022-06-24,True,396,>365 days,5,2022,6,2023
+168,Male,Tablet,Mexico,4,17,9,Horror,Neutral,500,2022-12-11,2023-06-28,2,10,Standard,12,2,1,2023-01-10,True,199,181-365 days,12,2022,6,2023
+173,Male,Smartphone,United Kingdom,3,24,9,Action & Adventure,Neutral,600,2022-06-03,2023-06-25,2,15,Standard,12,2,1,2022-07-03,True,387,>365 days,6,2022,6,2023
+174,Female,Tablet,Australia,4,19,8,Comedy,Neutral,900,2022-04-23,2023-06-25,2,14,Standard,12,2,1,2022-05-23,True,428,>365 days,4,2022,6,2023
+178,Female,Laptop,Mexico,3,22,9,Dramma,Neutral,600,2022-10-19,2023-06-26,2,13,Standard,12,2,1,2022-11-18,True,250,181-365 days,10,2022,6,2023
+183,Female,Tablet,United Kingdom,3,24,7,Horror,Extremely satisfied,700,2022-05-26,2023-06-26,2,15,Standard,12,2,1,2022-06-25,True,396,>365 days,5,2022,6,2023
+184,Female,Laptop,Australia,2,19,10,Comedy,Extremely satisfied,1000,2022-04-26,2023-06-25,2,13,Standard,12,2,1,2022-05-26,True,425,>365 days,4,2022,6,2023
+188,Female,Smart TV,Mexico,2,21,9,Dramma,Extremely satisfied,500,2022-07-16,2023-06-27,2,15,Standard,12,2,1,2022-08-15,True,346,181-365 days,7,2022,6,2023
+193,Male,Laptop,United Kingdom,2,18,9,Horror,Satisfied,800,2022-08-05,2023-06-25,2,11,Standard,12,2,1,2022-09-04,True,324,181-365 days,8,2022,6,2023
+194,Male,Laptop,Australia,3,19,9,Action & Adventure,Extremely satisfied,800,2022-08-19,2023-06-27,2,14,Standard,12,2,1,2022-09-18,True,312,181-365 days,8,2022,6,2023
+198,Female,Laptop,Mexico,2,25,10,Dramma,Extremely satisfied,700,2022-10-18,2023-06-27,2,10,Standard,12,2,1,2022-11-17,True,252,181-365 days,10,2022,6,2023
+203,Female,Smart TV,United Kingdom,4,24,10,Horror,Neutral,900,2022-07-31,2023-06-24,2,13,Standard,12,2,1,2022-08-30,True,328,181-365 days,7,2022,6,2023
+204,Male,Smartphone,Australia,4,18,8,Action & Adventure,Extremely satisfied,600,2022-07-27,2023-06-24,2,12,Standard,12,2,1,2022-08-26,True,332,181-365 days,7,2022,6,2023
+208,Female,Tablet,Mexico,3,25,9,Dramma,Satisfied,500,2023-01-05,2023-06-23,2,15,Standard,12,2,1,2023-02-04,True,169,91-180 days,1,2023,6,2023
+213,Female,Smart TV,United Kingdom,2,22,6,Dramma,Satisfied,900,2022-09-08,2023-06-24,2,12,Standard,12,2,1,2022-10-08,True,289,181-365 days,9,2022,6,2023
+214,Female,Laptop,Australia,4,17,7,Horror,Satisfied,700,2022-06-30,2023-06-28,2,13,Standard,12,2,1,2022-07-30,True,363,181-365 days,6,2022,6,2023
+218,Male,Tablet,Mexico,2,21,9,Horror,Extremely satisfied,700,2022-11-15,2023-06-28,2,12,Standard,12,2,1,2022-12-15,True,225,181-365 days,11,2022,6,2023
+223,Female,Smartphone,United Kingdom,3,23,10,Horror,Extremely satisfied,800,2023-01-08,2023-06-25,2,12,Standard,12,2,1,2023-02-07,True,168,91-180 days,1,2023,6,2023
+228,Male,Smart TV,Mexico,2,22,10,Horror,Extremely satisfied,800,2022-11-04,2023-06-27,2,10,Standard,12,2,1,2022-12-04,True,235,181-365 days,11,2022,6,2023
+229,Male,Smartphone,Spain,2,21,9,Horror,Extremely satisfied,700,2022-11-04,2023-06-27,2,13,Standard,12,2,1,2022-12-04,True,235,181-365 days,11,2022,6,2023
+232,Male,Smartphone,Canada,3,23,6,Action & Adventure,Neutral,600,2022-08-30,2023-06-27,2,11,Standard,12,2,1,2022-09-29,True,301,181-365 days,8,2022,6,2023
+234,Female,Laptop,Australia,3,25,6,Dramma,Extremely satisfied,1000,2022-05-26,2023-06-27,2,14,Standard,12,2,1,2022-06-25,True,397,>365 days,5,2022,6,2023
+238,Male,Smartphone,Mexico,3,23,8,Action & Adventure,Satisfied,500,2022-07-17,2023-06-28,2,15,Standard,12,2,1,2022-08-16,True,346,181-365 days,7,2022,6,2023
+240,Male,Smartphone,Italy,3,18,10,Action & Adventure,Dissatisfied,700,2022-06-27,2023-06-26,2,13,Standard,12,2,1,2022-07-27,True,364,181-365 days,6,2022,6,2023
+243,Male,Laptop,United Kingdom,2,24,8,Horror,Satisfied,900,2022-05-25,2023-06-27,2,11,Standard,12,2,1,2022-06-24,True,398,>365 days,5,2022,6,2023
+248,Male,Smartphone,Mexico,4,20,9,Action & Adventure,Extremely satisfied,800,2022-09-15,2023-06-26,2,13,Standard,12,2,1,2022-10-15,True,284,181-365 days,9,2022,6,2023
+249,Female,Smartphone,Spain,4,19,10,Horror,Satisfied,800,2022-09-16,2023-06-27,2,14,Standard,12,2,1,2022-10-16,True,284,181-365 days,9,2022,6,2023
+253,Female,Tablet,United Kingdom,4,20,9,Dramma,Neutral,700,2022-05-21,2023-06-25,2,15,Standard,12,2,1,2022-06-20,True,400,>365 days,5,2022,6,2023
+258,Female,Smartphone,Mexico,4,20,6,Comedy,Neutral,800,2022-07-16,2023-06-28,2,11,Standard,12,2,1,2022-08-15,True,347,181-365 days,7,2022,6,2023
+259,Male,Smartphone,Spain,3,19,8,Horror,Dissatisfied,700,2022-08-05,2023-06-26,2,15,Standard,12,2,1,2022-09-04,True,325,181-365 days,8,2022,6,2023
+263,Male,Smartphone,United Kingdom,2,22,6,Action & Adventure,Satisfied,800,2022-07-25,2023-06-24,2,15,Standard,12,2,1,2022-08-24,True,334,181-365 days,7,2022,6,2023
+268,Female,Smart TV,Mexico,3,24,8,Horror,Extremely dissatisfied,500,2022-10-16,2023-06-28,2,13,Standard,12,2,1,2022-11-15,True,255,181-365 days,10,2022,6,2023
+269,Female,Laptop,Spain,4,22,8,Dramma,Dissatisfied,800,2022-10-15,2023-06-25,2,13,Standard,12,2,1,2022-11-14,True,253,181-365 days,10,2022,6,2023
+273,Female,Laptop,United Kingdom,4,18,10,Comedy,Satisfied,700,2022-08-02,2023-06-25,2,12,Standard,12,2,1,2022-09-01,True,327,181-365 days,8,2022,6,2023
+278,Female,Laptop,Mexico,4,19,9,Dramma,Extremely satisfied,700,2022-09-27,2023-06-26,2,14,Standard,12,2,1,2022-10-27,True,272,181-365 days,9,2022,6,2023
+279,Female,Laptop,Spain,2,24,8,Horror,Extremely dissatisfied,900,2022-11-12,2023-06-24,2,15,Standard,12,2,1,2022-12-12,True,224,181-365 days,11,2022,6,2023
+283,Male,Smartphone,United Kingdom,4,19,10,Action & Adventure,Extremely dissatisfied,600,2022-06-30,2023-06-26,2,15,Standard,12,2,1,2022-07-30,True,361,181-365 days,6,2022,6,2023
+288,Male,Smart TV,Mexico,4,22,6,Horror,Dissatisfied,600,2022-10-20,2023-06-28,2,14,Standard,12,2,1,2022-11-19,True,251,181-365 days,10,2022,6,2023
+289,Female,Smart TV,Spain,3,24,9,Dramma,Extremely satisfied,800,2022-11-20,2023-06-25,2,15,Standard,12,2,1,2022-12-20,True,217,181-365 days,11,2022,6,2023
+293,Female,Laptop,United Kingdom,2,19,6,Comedy,Neutral,600,2022-12-09,2023-06-25,2,14,Standard,12,2,1,2023-01-08,True,198,181-365 days,12,2022,6,2023
+298,Male,Tablet,Mexico,3,22,9,Action & Adventure,Neutral,600,2022-11-03,2023-06-27,2,14,Standard,12,2,1,2022-12-03,True,236,181-365 days,11,2022,6,2023
+303,Male,Tablet,United Kingdom,2,21,10,Action & Adventure,Neutral,800,2022-06-11,2023-06-26,2,12,Standard,12,2,1,2022-07-11,True,380,>365 days,6,2022,6,2023
+304,Female,Smartphone,Australia,2,23,9,Horror,Dissatisfied,700,2022-06-11,2023-06-29,2,12,Standard,12,2,1,2022-07-11,True,383,>365 days,6,2022,6,2023
+307,Female,Smart TV,Brazil,2,20,6,Dramma,Extremely satisfied,600,2022-07-08,2023-06-28,2,11,Standard,12,2,1,2022-08-07,True,355,181-365 days,7,2022,6,2023
+309,Male,Smartphone,Spain,3,24,6,Action & Adventure,Extremely satisfied,1000,2022-08-09,2023-06-28,2,11,Standard,12,2,1,2022-09-08,True,323,181-365 days,8,2022,6,2023
+313,Female,Laptop,United Kingdom,4,25,10,Horror,Extremely dissatisfied,900,2022-05-27,2023-06-27,2,13,Standard,12,2,1,2022-06-26,True,396,>365 days,5,2022,6,2023
+315,Female,Smart TV,Germany,2,19,10,Horror,Extremely satisfied,600,2022-04-28,2023-06-27,2,15,Standard,12,2,1,2022-05-28,True,425,>365 days,4,2022,6,2023
+318,Female,Laptop,Mexico,2,17,10,Dramma,Extremely satisfied,600,2022-09-02,2023-06-27,2,10,Standard,12,2,1,2022-10-02,True,298,181-365 days,9,2022,6,2023
+323,Male,Smartphone,United Kingdom,4,20,10,Action & Adventure,Dissatisfied,900,2022-05-31,2023-06-26,2,14,Standard,12,2,1,2022-06-30,True,391,>365 days,5,2022,6,2023
+324,Male,Tablet,Australia,2,23,8,Action & Adventure,Neutral,900,2022-05-22,2023-06-27,2,15,Standard,12,2,1,2022-06-21,True,401,>365 days,5,2022,6,2023
+328,Female,Tablet,Mexico,4,19,6,Horror,Dissatisfied,600,2022-07-26,2023-06-27,2,12,Standard,12,2,1,2022-08-25,True,336,181-365 days,7,2022,6,2023
+333,Female,Smart TV,United Kingdom,2,29,2,Dramma,Extremely satisfied,4000,2022-07-24,2023-06-27,2,15,Standard,12,2,1,2022-08-23,True,338,181-365 days,7,2022,6,2023
+334,Male,Smart TV,Australia,4,31,4,Horror,Extremely satisfied,4000,2022-07-28,2023-06-28,2,11,Standard,12,2,1,2022-08-27,True,335,181-365 days,7,2022,6,2023
+338,Male,Tablet,Mexico,3,28,3,Action & Adventure,Satisfied,2300,2022-10-15,2023-06-27,2,12,Standard,12,2,1,2022-11-14,True,255,181-365 days,10,2022,6,2023
+343,Male,Smart TV,United Kingdom,2,30,2,Action & Adventure,Extremely satisfied,3900,2022-08-06,2023-06-25,2,13,Standard,12,2,1,2022-09-05,True,323,181-365 days,8,2022,6,2023
+344,Female,Smartphone,Australia,2,31,2,Comedy,Extremely satisfied,3400,2022-08-07,2023-06-26,2,13,Standard,12,2,1,2022-09-06,True,323,181-365 days,8,2022,6,2023
+348,Male,Smart TV,Mexico,2,29,2,Action & Adventure,Neutral,2200,2022-10-05,2023-06-26,2,14,Standard,12,2,1,2022-11-04,True,264,181-365 days,10,2022,6,2023
+353,Female,Smartphone,United Kingdom,3,29,2,Dramma,Satisfied,4200,2022-08-10,2023-06-26,2,14,Standard,12,2,1,2022-09-09,True,320,181-365 days,8,2022,6,2023
+354,Female,Laptop,Australia,3,35,3,Dramma,Extremely satisfied,3600,2022-08-16,2023-06-28,2,10,Standard,12,2,1,2022-09-15,True,316,181-365 days,8,2022,6,2023
+358,Female,Smart TV,Mexico,2,32,3,Comedy,Neutral,1800,2022-11-11,2023-06-28,2,12,Standard,12,2,1,2022-12-11,True,229,181-365 days,11,2022,6,2023
+363,Female,Smart TV,United Kingdom,3,29,4,Dramma,Neutral,4200,2022-11-01,2023-06-25,2,12,Standard,12,2,1,2022-12-01,True,236,181-365 days,11,2022,6,2023
+364,Male,Smart TV,Australia,4,26,2,Horror,Extremely satisfied,3400,2022-10-12,2023-06-29,2,14,Standard,12,2,1,2022-11-11,True,260,181-365 days,10,2022,6,2023
+368,Male,Smartphone,Mexico,4,29,4,Action & Adventure,Satisfied,2100,2022-10-24,2023-06-28,2,13,Standard,12,2,1,2022-11-23,True,247,181-365 days,10,2022,6,2023
+373,Female,Tablet,United Kingdom,3,30,2,Comedy,Neutral,4200,2022-06-18,2023-06-26,2,10,Standard,12,2,1,2022-07-18,True,373,>365 days,6,2022,6,2023
+378,Female,Laptop,Mexico,2,34,3,Dramma,Neutral,2000,2022-08-13,2023-06-27,2,14,Standard,12,2,1,2022-09-12,True,318,181-365 days,8,2022,6,2023
+379,Female,Smart TV,Spain,3,32,2,Horror,Neutral,3500,2022-08-12,2023-06-28,2,10,Standard,12,2,1,2022-09-11,True,320,181-365 days,8,2022,6,2023
+382,Male,Smart TV,Canada,3,27,2,Horror,Neutral,3400,2022-06-07,2023-06-26,2,10,Standard,12,2,1,2022-07-07,True,384,>365 days,6,2022,6,2023
+384,Female,Smartphone,Australia,4,33,4,Dramma,Neutral,3400,2022-05-19,2023-06-28,2,10,Standard,12,2,1,2022-06-18,True,405,>365 days,5,2022,6,2023
+388,Male,Laptop,Mexico,4,26,3,Action & Adventure,Satisfied,1700,2022-07-21,2023-06-28,2,12,Standard,12,2,1,2022-08-20,True,342,181-365 days,7,2022,6,2023
+390,Female,Laptop,Italy,4,27,3,Horror,Satisfied,3900,2022-07-03,2023-06-28,2,13,Standard,12,2,1,2022-08-02,True,360,181-365 days,7,2022,6,2023
+393,Male,Tablet,United Kingdom,2,31,4,Horror,Neutral,3500,2022-06-03,2023-06-26,2,10,Standard,12,2,1,2022-07-03,True,388,>365 days,6,2022,6,2023
+398,Female,Tablet,Mexico,2,31,2,Comedy,Satisfied,1800,2022-07-15,2023-06-27,2,13,Standard,12,2,1,2022-08-14,True,347,181-365 days,7,2022,6,2023
+399,Female,Smartphone,Spain,4,30,4,Horror,Neutral,3400,2022-07-14,2023-06-25,2,12,Standard,12,2,1,2022-08-13,True,346,181-365 days,7,2022,6,2023
+403,Male,Smartphone,United Kingdom,4,30,4,Horror,Extremely satisfied,3400,2022-07-23,2023-06-28,2,13,Standard,12,2,1,2022-08-22,True,340,181-365 days,7,2022,6,2023
+408,Female,Tablet,Mexico,3,30,4,Dramma,Neutral,2000,2022-09-27,2023-06-27,2,13,Standard,12,2,1,2022-10-27,True,273,181-365 days,9,2022,6,2023
+409,Male,Smartphone,Spain,2,28,4,Action & Adventure,Extremely satisfied,4100,2022-09-15,2023-06-25,2,14,Standard,12,2,1,2022-10-15,True,283,181-365 days,9,2022,6,2023
+413,Female,Smartphone,United Kingdom,2,31,2,Dramma,Extremely satisfied,4000,2022-08-24,2023-06-26,2,13,Standard,12,2,1,2022-09-23,True,306,181-365 days,8,2022,6,2023
+418,Female,Smart TV,Mexico,4,27,3,Dramma,Neutral,2100,2022-10-21,2023-06-27,2,14,Standard,12,2,1,2022-11-20,True,249,181-365 days,10,2022,6,2023
+419,Female,Laptop,Spain,3,26,3,Comedy,Extremely satisfied,4200,2022-10-30,2023-06-27,2,11,Standard,12,2,1,2022-11-29,True,240,181-365 days,10,2022,6,2023
+423,Male,Smartphone,United Kingdom,2,34,3,Action & Adventure,Satisfied,4000,2022-09-12,2023-06-27,2,15,Standard,12,2,1,2022-10-12,True,288,181-365 days,9,2022,6,2023
+428,Male,Smartphone,Mexico,4,31,2,Action & Adventure,Satisfied,2000,2022-11-17,2023-06-28,2,12,Standard,12,2,1,2022-12-17,True,223,181-365 days,11,2022,6,2023
+429,Male,Laptop,Spain,2,27,3,Horror,Extremely satisfied,3900,2022-11-18,2023-06-26,2,14,Standard,12,2,1,2022-12-18,True,220,181-365 days,11,2022,6,2023
+433,Female,Smartphone,United Kingdom,4,34,4,Horror,Satisfied,3800,2022-11-06,2023-06-25,2,11,Standard,12,2,1,2022-12-06,True,231,181-365 days,11,2022,6,2023
+438,Male,Smart TV,Mexico,3,28,4,Horror,Extremely satisfied,1800,2022-10-24,2023-06-28,2,12,Standard,12,2,1,2022-11-23,True,247,181-365 days,10,2022,6,2023
+439,Female,Smart TV,Spain,2,31,2,Comedy,Neutral,3700,2022-10-23,2023-06-27,2,12,Standard,12,2,1,2022-11-22,True,247,181-365 days,10,2022,6,2023
+443,Male,Smart TV,United Kingdom,4,27,2,Action & Adventure,Extremely satisfied,3400,2022-07-01,2023-06-27,2,10,Standard,12,2,1,2022-07-31,True,361,181-365 days,7,2022,6,2023
+448,Male,Tablet,Mexico,4,31,3,Horror,Extremely satisfied,2400,2022-08-12,2023-06-27,2,14,Standard,12,2,1,2022-09-11,True,319,181-365 days,8,2022,6,2023
+453,Female,Tablet,United Kingdom,3,31,2,Dramma,Neutral,3800,2022-05-30,2023-06-28,2,11,Standard,12,2,1,2022-06-29,True,394,>365 days,5,2022,6,2023
+454,Female,Tablet,Australia,3,32,2,Horror,Neutral,3700,2022-05-28,2023-06-28,2,15,Standard,12,2,1,2022-06-27,True,396,>365 days,5,2022,6,2023
+457,Male,Smart TV,Brazil,3,34,2,Horror,Satisfied,1900,2022-06-29,2023-06-28,2,14,Standard,12,2,1,2022-07-29,True,364,181-365 days,6,2022,6,2023
+459,Female,Tablet,Spain,3,33,3,Comedy,Neutral,4000,2022-07-19,2023-06-27,2,10,Standard,12,2,1,2022-08-18,True,343,181-365 days,7,2022,6,2023
+463,Male,Smart TV,United Kingdom,2,33,2,Horror,Neutral,3400,2022-06-01,2023-06-26,2,11,Standard,12,2,1,2022-07-01,True,390,>365 days,6,2022,6,2023
+465,Male,Laptop,Germany,4,32,4,Horror,Extremely satisfied,3400,2022-06-05,2023-06-26,2,11,Standard,12,2,1,2022-07-05,True,386,>365 days,6,2022,6,2023
+468,Male,Smart TV,Mexico,3,33,4,Horror,Neutral,2200,2022-06-28,2023-06-27,2,11,Standard,12,2,1,2022-07-28,True,364,181-365 days,6,2022,6,2023
+473,Female,Smartphone,United Kingdom,4,34,3,Horror,Satisfied,3600,2022-07-27,2023-06-28,2,10,Standard,12,2,1,2022-08-26,True,336,181-365 days,7,2022,6,2023
+474,Male,Smartphone,Australia,4,33,2,Action & Adventure,Extremely satisfied,3500,2022-07-30,2023-06-28,2,14,Standard,12,2,1,2022-08-29,True,333,181-365 days,7,2022,6,2023
+478,Male,Laptop,Mexico,2,34,2,Action & Adventure,Neutral,2200,2022-09-08,2023-06-27,2,10,Standard,12,2,1,2022-10-08,True,292,181-365 days,9,2022,6,2023
+483,Male,Smart TV,United Kingdom,2,33,3,Action & Adventure,Satisfied,3400,2022-08-25,2023-06-27,2,14,Standard,12,2,1,2022-09-24,True,306,181-365 days,8,2022,6,2023
+484,Male,Smartphone,Australia,3,29,4,Horror,Neutral,4000,2022-08-25,2023-06-28,2,13,Standard,12,2,1,2022-09-24,True,307,181-365 days,8,2022,6,2023
+488,Female,Smart TV,Mexico,3,35,2,Horror,Extremely satisfied,2100,2022-10-08,2023-06-28,2,11,Standard,12,2,1,2022-11-07,True,263,181-365 days,10,2022,6,2023
+493,Female,Smartphone,United Kingdom,2,32,3,Horror,Neutral,3600,2022-09-18,2023-06-27,2,11,Standard,12,2,1,2022-10-18,True,282,181-365 days,9,2022,6,2023
+494,Male,Smart TV,Australia,4,31,3,Action & Adventure,Neutral,4200,2022-09-27,2023-06-29,2,14,Standard,12,2,1,2022-10-27,True,275,181-365 days,9,2022,6,2023
+498,Female,Smartphone,Mexico,2,26,4,Dramma,Satisfied,2000,2022-11-17,2023-06-28,2,11,Standard,12,2,1,2022-12-17,True,223,181-365 days,11,2022,6,2023
+503,Male,Tablet,United States,4,34,3,Action & Adventure,Neutral,3500,2022-11-10,2023-06-26,2,14,Standard,12,2,1,2022-12-10,True,228,181-365 days,11,2022,6,2023
+504,Female,Laptop,Canada,3,32,2,Dramma,Dissatisfied,3700,2022-10-21,2023-06-29,2,12,Standard,12,2,1,2022-11-20,True,251,181-365 days,10,2022,6,2023
+508,Female,Tablet,United Kingdom,3,26,4,Horror,Extremely satisfied,4000,2022-10-23,2023-06-28,2,12,Standard,12,2,1,2022-11-22,True,248,181-365 days,10,2022,6,2023
+513,Male,Tablet,Mexico,4,35,4,Action & Adventure,Dissatisfied,2400,2022-07-06,2023-06-28,2,10,Standard,12,2,1,2022-08-05,True,357,181-365 days,7,2022,6,2023
+514,Male,Tablet,Spain,4,26,3,Action & Adventure,Extremely satisfied,4200,2022-07-07,2023-06-28,2,14,Standard,12,2,1,2022-08-06,True,356,181-365 days,7,2022,6,2023
+518,Female,Tablet,United States,4,29,3,Dramma,Extremely satisfied,4000,2022-08-07,2023-06-27,2,15,Standard,12,2,1,2022-09-06,True,324,181-365 days,8,2022,6,2023
+523,Male,Smartphone,United Kingdom,3,31,2,Action & Adventure,Satisfied,4100,2022-06-07,2023-06-29,2,13,Standard,12,2,1,2022-07-07,True,387,>365 days,6,2022,6,2023
+528,Female,Smartphone,Mexico,4,35,4,Dramma,Dissatisfied,2300,2022-07-13,2023-06-29,2,13,Standard,12,2,1,2022-08-12,True,351,181-365 days,7,2022,6,2023
+529,Female,Laptop,Spain,4,30,2,Horror,Neutral,4000,2022-07-07,2023-06-27,2,11,Standard,12,2,1,2022-08-06,True,355,181-365 days,7,2022,6,2023
+532,Male,Laptop,Spain,2,30,2,Action & Adventure,Dissatisfied,4100,2022-06-03,2023-06-28,2,11,Standard,12,2,1,2022-07-03,True,390,>365 days,6,2022,6,2023
+534,Female,Smart TV,Canada,3,30,4,Comedy,Dissatisfied,3500,2022-06-05,2023-06-28,2,11,Standard,12,2,1,2022-07-05,True,388,>365 days,6,2022,6,2023
+538,Female,Tablet,United Kingdom,4,30,3,Horror,Neutral,4200,2022-06-19,2023-06-28,2,14,Standard,12,2,1,2022-07-19,True,374,>365 days,6,2022,6,2023
+540,Male,Smartphone,Germany,4,30,4,Horror,Satisfied,3900,2022-07-03,2023-06-29,2,10,Standard,12,2,1,2022-08-02,True,361,181-365 days,7,2022,6,2023
+543,Male,Smartphone,Mexico,1,31,2,Others,Satisfied,1700,2022-07-27,2023-06-28,2,11,Standard,12,2,1,2022-08-26,True,336,181-365 days,7,2022,6,2023
+548,Female,Smartphone,United States,1,32,2,Comedy,Extremely satisfied,3700,2022-09-05,2023-06-27,2,12,Standard,12,2,1,2022-10-05,True,295,181-365 days,9,2022,6,2023
+549,Female,Smartphone,Canada,1,27,2,Action & Adventure,Dissatisfied,4200,2022-09-05,2023-06-27,2,10,Standard,12,2,1,2022-10-05,True,295,181-365 days,9,2022,6,2023
+553,Male,Smart TV,United Kingdom,1,29,3,Others,Extremely satisfied,4000,2022-08-27,2023-06-28,2,14,Standard,12,2,1,2022-09-26,True,305,181-365 days,8,2022,6,2023
+558,Female,Smart TV,Mexico,1,29,3,Dramma,Neutral,1900,2022-10-18,2023-06-30,2,14,Standard,12,2,1,2022-11-17,True,255,181-365 days,10,2022,6,2023
+559,Female,Tablet,Spain,1,31,4,Action & Adventure,Neutral,3900,2022-10-19,2023-06-28,2,13,Standard,12,2,1,2022-11-18,True,252,181-365 days,10,2022,6,2023
+563,Male,Tablet,United States,1,28,2,Horror,Dissatisfied,3400,2022-09-24,2023-06-29,2,10,Standard,12,2,1,2022-10-24,True,278,181-365 days,9,2022,6,2023
+568,Female,Laptop,United Kingdom,1,26,3,Comedy,Extremely dissatisfied,3800,2022-11-16,2023-06-28,2,11,Standard,12,2,1,2022-12-16,True,224,181-365 days,11,2022,6,2023
+569,Female,Laptop,Australia,1,28,3,Others,Dissatisfied,4200,2022-11-17,2023-06-26,2,10,Standard,12,2,1,2022-12-17,True,221,181-365 days,11,2022,6,2023
+573,Female,Smart TV,Mexico,1,30,3,Action & Adventure,Extremely satisfied,1900,2022-11-18,2023-06-27,2,12,Standard,12,2,1,2022-12-18,True,221,181-365 days,11,2022,6,2023
+578,Female,Laptop,United States,1,41,3,Comedy,Neutral,3600,2022-10-23,2023-06-28,2,13,Standard,12,2,1,2022-11-22,True,248,181-365 days,10,2022,6,2023
+579,Female,Tablet,Canada,1,37,3,Others,Satisfied,4200,2022-10-16,2023-06-28,2,12,Standard,12,2,1,2022-11-15,True,255,181-365 days,10,2022,6,2023
+583,Female,Tablet,United Kingdom,1,42,2,Others,Satisfied,4100,2022-07-17,2023-06-28,2,15,Standard,12,2,1,2022-08-16,True,346,181-365 days,7,2022,6,2023
+588,Male,Smartphone,Mexico,1,43,1,Dramma,Satisfied,1800,2022-08-07,2023-06-27,2,11,Standard,12,2,1,2022-09-06,True,324,181-365 days,8,2022,6,2023
+589,Male,Laptop,Spain,1,37,2,Dramma,Dissatisfied,3500,2022-08-04,2023-06-29,2,15,Standard,12,2,1,2022-09-03,True,329,181-365 days,8,2022,6,2023
+593,Male,Smartphone,United States,1,41,3,Dramma,Dissatisfied,3900,2022-06-06,2023-06-29,2,11,Standard,12,2,1,2022-07-06,True,388,>365 days,6,2022,6,2023
+598,Female,Tablet,United Kingdom,1,41,1,Others,Satisfied,4000,2022-07-05,2023-06-29,2,12,Standard,12,2,1,2022-08-04,True,359,181-365 days,7,2022,6,2023
+603,Female,Tablet,Mexico,1,37,1,Horror,Neutral,2200,2022-06-06,2023-06-27,2,15,Standard,12,2,1,2022-07-06,True,386,>365 days,6,2022,6,2023
+604,Male,Smartphone,Spain,1,39,1,Others,Satisfied,3600,2022-06-07,2023-06-28,2,15,Standard,12,2,1,2022-07-07,True,386,>365 days,6,2022,6,2023
+607,Female,Smart TV,Spain,1,44,1,Horror,Satisfied,3600,2022-06-14,2023-06-27,2,14,Standard,12,2,1,2022-07-14,True,378,>365 days,6,2022,6,2023
+609,Female,Smartphone,Canada,1,45,2,Dramma,Dissatisfied,3700,2022-07-03,2023-06-29,2,14,Standard,12,2,1,2022-08-02,True,361,181-365 days,7,2022,6,2023
+613,Male,Laptop,United Kingdom,1,41,3,Action & Adventure,Dissatisfied,4200,2022-07-27,2023-06-28,2,12,Standard,12,2,1,2022-08-26,True,336,181-365 days,7,2022,6,2023
+615,Male,Smart TV,Germany,1,44,3,Horror,Neutral,3700,2022-08-15,2023-06-27,2,13,Standard,12,2,1,2022-09-14,True,316,181-365 days,8,2022,6,2023
+618,Female,Smart TV,Mexico,1,41,1,Comedy,Neutral,2300,2022-09-06,2023-06-28,2,10,Standard,12,2,1,2022-10-06,True,295,181-365 days,9,2022,6,2023
+623,Female,Smart TV,United States,1,45,2,Others,Satisfied,3500,2022-08-30,2023-06-28,2,13,Standard,12,2,1,2022-09-29,True,302,181-365 days,8,2022,6,2023
+624,Male,Smartphone,Canada,1,44,1,Comedy,Neutral,3900,2022-09-02,2023-06-30,2,10,Standard,12,2,1,2022-10-02,True,301,181-365 days,9,2022,6,2023
+628,Male,Smartphone,United Kingdom,1,41,2,Dramma,Neutral,4200,2022-10-09,2023-07-01,2,10,Standard,12,2,1,2022-11-08,True,265,181-365 days,10,2022,7,2023
+633,Female,Smartphone,Mexico,1,37,1,Comedy,Dissatisfied,1700,2022-09-28,2023-06-29,2,12,Standard,12,2,1,2022-10-28,True,274,181-365 days,9,2022,6,2023
+634,Female,Smart TV,Spain,1,38,1,Horror,Neutral,3400,2022-09-29,2023-06-29,2,12,Standard,12,2,1,2022-10-29,True,273,181-365 days,9,2022,6,2023
+638,Male,Tablet,United States,1,44,2,Action & Adventure,Dissatisfied,3500,2022-11-16,2023-07-01,2,11,Standard,12,2,1,2022-12-16,True,227,181-365 days,11,2022,7,2023
+643,Female,Smartphone,United Kingdom,1,42,2,Comedy,Satisfied,3400,2022-10-28,2023-06-27,2,11,Standard,12,2,1,2022-11-27,True,242,181-365 days,10,2022,6,2023
+644,Female,Laptop,Australia,1,41,1,Horror,Satisfied,3400,2022-10-27,2023-06-29,2,15,Standard,12,2,1,2022-11-26,True,245,181-365 days,10,2022,6,2023
+648,Female,Smartphone,Mexico,1,45,1,Horror,Satisfied,2300,2022-10-17,2023-06-28,2,10,Standard,12,2,1,2022-11-16,True,254,181-365 days,10,2022,6,2023
+653,Female,Smartphone,United States,1,36,1,Horror,Neutral,4200,2022-07-29,2023-06-29,2,11,Standard,12,2,1,2022-08-28,True,335,181-365 days,7,2022,6,2023
+654,Female,Smartphone,Canada,1,42,1,Comedy,Neutral,3500,2022-07-17,2023-06-28,2,12,Standard,12,2,1,2022-08-16,True,346,181-365 days,7,2022,6,2023
+658,Female,Smart TV,United Kingdom,1,39,2,Comedy,Neutral,3400,2022-08-04,2023-06-29,2,13,Standard,12,2,1,2022-09-03,True,329,181-365 days,8,2022,6,2023
+663,Male,Tablet,Mexico,1,41,3,Others,Satisfied,2100,2022-06-13,2023-06-29,2,11,Standard,12,2,1,2022-07-13,True,381,>365 days,6,2022,6,2023
+664,Male,Smart TV,Spain,1,42,1,Others,Neutral,4100,2022-06-12,2023-06-30,2,11,Standard,12,2,1,2022-07-12,True,383,>365 days,6,2022,6,2023
+668,Male,Smart TV,United States,1,45,1,Dramma,Dissatisfied,4000,2022-07-03,2023-06-30,2,13,Standard,12,2,1,2022-08-02,True,362,181-365 days,7,2022,6,2023
+673,Male,Smartphone,United Kingdom,1,42,1,Horror,Satisfied,3500,2022-06-09,2023-06-27,2,15,Standard,12,2,1,2022-07-09,True,383,>365 days,6,2022,6,2023
+678,Female,Smart TV,Mexico,1,37,2,Comedy,Dissatisfied,2400,2022-06-27,2023-06-28,2,15,Standard,12,2,1,2022-07-27,True,366,>365 days,6,2022,6,2023
+679,Male,Laptop,Spain,1,42,2,Horror,Satisfied,4000,2022-07-05,2023-06-29,2,11,Standard,12,2,1,2022-08-04,True,359,181-365 days,7,2022,6,2023
+682,Male,Tablet,Spain,1,35,3,Others,Neutral,3400,2022-07-23,2023-06-27,2,11,Standard,12,2,1,2022-08-22,True,339,181-365 days,7,2022,6,2023
+684,Male,Smartphone,Canada,1,41,2,Action & Adventure,Dissatisfied,3900,2022-08-11,2023-06-29,2,10,Standard,12,2,1,2022-09-10,True,322,181-365 days,8,2022,6,2023
+688,Male,Smartphone,United Kingdom,1,36,1,Others,Dissatisfied,3900,2022-09-03,2023-06-28,2,10,Standard,12,2,1,2022-10-03,True,298,181-365 days,9,2022,6,2023
+690,Male,Laptop,Germany,1,40,1,Horror,Dissatisfied,3700,2022-09-05,2023-06-30,2,15,Standard,12,2,1,2022-10-05,True,298,181-365 days,9,2022,6,2023
+693,Female,Tablet,Mexico,1,40,3,Horror,Neutral,1700,2022-09-01,2023-06-29,2,14,Standard,12,2,1,2022-10-01,True,301,181-365 days,9,2022,6,2023
+698,Male,Laptop,United States,1,39,2,Action & Adventure,Neutral,3500,2022-10-12,2023-07-02,2,10,Standard,12,2,1,2022-11-11,True,263,181-365 days,10,2022,7,2023
+699,Female,Smartphone,Canada,1,41,1,Others,Dissatisfied,3900,2022-10-07,2023-06-30,2,13,Standard,12,2,1,2022-11-06,True,266,181-365 days,10,2022,6,2023
+703,Male,Laptop,United Kingdom,1,41,2,Action & Adventure,Neutral,3900,2022-09-27,2023-06-30,2,14,Standard,12,2,1,2022-10-27,True,276,181-365 days,9,2022,6,2023
+708,Male,Laptop,Mexico,1,39,1,Others,Dissatisfied,2000,2022-11-02,2023-07-01,2,13,Standard,12,2,1,2022-12-02,True,241,181-365 days,11,2022,7,2023
+709,Female,Smart TV,Spain,1,40,3,Others,Satisfied,4000,2022-11-07,2023-06-28,2,12,Standard,12,2,1,2022-12-07,True,233,181-365 days,11,2022,6,2023
+713,Male,Laptop,United States,1,40,2,Horror,Satisfied,3900,2022-11-01,2023-06-27,2,10,Standard,12,2,1,2022-12-01,True,238,181-365 days,11,2022,6,2023
+718,Male,Tablet,United Kingdom,1,45,2,Horror,Satisfied,3600,2022-09-30,2023-06-30,2,14,Standard,12,2,1,2022-10-30,True,273,181-365 days,9,2022,6,2023
+719,Female,Tablet,Australia,1,39,3,Others,Neutral,4100,2022-09-03,2023-06-29,2,10,Standard,12,2,1,2022-10-03,True,299,181-365 days,9,2022,6,2023
+723,Female,Smartphone,Mexico,1,44,1,Horror,Satisfied,1900,2022-08-01,2023-06-30,2,10,Standard,12,2,1,2022-08-31,True,333,181-365 days,8,2022,6,2023
+728,Male,Laptop,United States,1,37,3,Action & Adventure,Extremely satisfied,4100,2022-08-04,2023-06-29,2,14,Standard,12,2,1,2022-09-03,True,329,181-365 days,8,2022,6,2023
+729,Female,Smartphone,Canada,1,38,1,Action & Adventure,Neutral,4100,2022-07-07,2023-06-30,2,15,Standard,12,2,1,2022-08-06,True,358,181-365 days,7,2022,6,2023
+733,Female,Laptop,United Kingdom,1,42,1,Others,Neutral,3400,2022-06-18,2023-06-29,2,10,Standard,12,2,1,2022-07-18,True,376,>365 days,6,2022,6,2023
+738,Female,Smartphone,Mexico,1,37,1,Dramma,Satisfied,2300,2022-06-26,2023-07-01,2,14,Standard,12,2,1,2022-07-26,True,370,>365 days,6,2022,7,2023
+739,Male,Smartphone,Spain,1,35,2,Others,Extremely satisfied,4000,2022-06-21,2023-06-28,2,13,Standard,12,2,1,2022-07-21,True,372,>365 days,6,2022,6,2023
+743,Female,Laptop,United States,1,50,1,Comedy,Satisfied,4200,2022-06-10,2023-06-28,2,15,Standard,12,2,1,2022-07-10,True,383,>365 days,6,2022,6,2023
+748,Male,Smart TV,United Kingdom,1,64,3,Horror,Dissatisfied,4100,2022-06-30,2023-06-28,2,13,Standard,12,2,1,2022-07-30,True,363,181-365 days,6,2022,6,2023
+753,Female,Smartphone,Mexico,1,70,1,Comedy,Satisfied,1800,2022-07-27,2023-06-30,2,12,Standard,12,2,1,2022-08-26,True,338,181-365 days,7,2022,6,2023
+754,Male,Laptop,Spain,1,55,1,Comedy,Satisfied,4200,2022-08-10,2023-06-29,2,11,Standard,12,2,1,2022-09-09,True,323,181-365 days,8,2022,6,2023
+757,Male,Laptop,Spain,1,52,1,Action & Adventure,Dissatisfied,3700,2022-09-03,2023-06-30,2,11,Standard,12,2,1,2022-10-03,True,300,181-365 days,9,2022,6,2023
+759,Male,Smart TV,Canada,1,48,2,Comedy,Extremely satisfied,3500,2022-09-05,2023-06-29,2,14,Standard,12,2,1,2022-10-05,True,297,181-365 days,9,2022,6,2023
+763,Male,Laptop,United Kingdom,1,50,3,Action & Adventure,Neutral,3400,2022-09-15,2023-06-29,2,10,Standard,12,2,1,2022-10-15,True,287,181-365 days,9,2022,6,2023
+765,Female,Smart TV,Germany,1,54,1,Others,Neutral,3500,2022-09-28,2023-06-29,2,11,Standard,12,2,1,2022-10-28,True,274,181-365 days,9,2022,6,2023
+768,Female,Laptop,Mexico,1,66,1,Dramma,Dissatisfied,1800,2022-10-08,2023-07-02,2,10,Standard,12,2,1,2022-11-07,True,267,181-365 days,10,2022,7,2023
+773,Female,Smart TV,United States,1,61,3,Comedy,Dissatisfied,3600,2022-10-01,2023-06-30,2,13,Standard,12,2,1,2022-10-31,True,272,181-365 days,10,2022,6,2023
+774,Male,Smartphone,Canada,1,51,3,Others,Dissatisfied,3700,2022-10-03,2023-07-02,2,15,Standard,12,2,1,2022-11-02,True,272,181-365 days,10,2022,7,2023
+778,Male,Tablet,United Kingdom,1,54,2,Dramma,Extremely satisfied,3800,2022-11-03,2023-07-01,2,13,Standard,12,2,1,2022-12-03,True,240,181-365 days,11,2022,7,2023
+783,Female,Laptop,Mexico,1,46,1,Dramma,Neutral,2000,2022-11-01,2023-06-29,2,13,Standard,12,2,1,2022-12-01,True,240,181-365 days,11,2022,6,2023
+784,Male,Laptop,Spain,1,65,3,Horror,Dissatisfied,4000,2022-10-31,2023-06-30,2,14,Standard,12,2,1,2022-11-30,True,242,181-365 days,10,2022,6,2023
+788,Female,Tablet,United States,1,62,2,Others,Dissatisfied,3700,2022-09-13,2023-06-30,2,12,Standard,12,2,1,2022-10-13,True,290,181-365 days,9,2022,6,2023
+793,Female,Smartphone,United Kingdom,1,58,2,Others,Extremely satisfied,3800,2022-08-05,2023-06-30,2,11,Standard,12,2,1,2022-09-04,True,329,181-365 days,8,2022,6,2023
+794,Female,Smart TV,Australia,1,58,2,Dramma,Neutral,3500,2022-08-02,2023-06-30,2,12,Standard,12,2,1,2022-09-01,True,332,181-365 days,8,2022,6,2023
+798,Male,Laptop,Mexico,1,49,3,Dramma,Extremely satisfied,2200,2022-07-12,2023-06-30,2,15,Standard,12,2,1,2022-08-11,True,353,181-365 days,7,2022,6,2023
+803,Male,Smart TV,United States,1,63,2,Comedy,Dissatisfied,3800,2022-06-19,2023-07-01,2,14,Standard,12,2,1,2022-07-19,True,377,>365 days,6,2022,7,2023
+804,Female,Smartphone,Canada,1,47,3,Others,Neutral,3700,2022-06-22,2023-07-02,2,14,Standard,12,2,1,2022-07-22,True,375,>365 days,6,2022,7,2023
+808,Male,Smart TV,United Kingdom,1,68,3,Action & Adventure,Extremely dissatisfied,4100,2022-06-25,2023-07-01,2,13,Standard,12,2,1,2022-07-25,True,371,>365 days,6,2022,7,2023
+813,Male,Smartphone,Mexico,1,70,3,Action & Adventure,Extremely dissatisfied,1700,2022-06-11,2023-06-28,2,10,Standard,12,2,1,2022-07-11,True,382,>365 days,6,2022,6,2023
+814,Male,Smartphone,Spain,1,46,2,Others,Neutral,4000,2022-06-12,2023-06-29,2,10,Standard,12,2,1,2022-07-12,True,382,>365 days,6,2022,6,2023
+818,Male,Tablet,United States,1,60,3,Comedy,Neutral,3700,2022-06-30,2023-06-28,2,13,Standard,12,2,1,2022-07-30,True,363,181-365 days,6,2022,6,2023
+823,Male,Smartphone,United Kingdom,1,62,2,Horror,Dissatisfied,3400,2022-07-29,2023-06-30,2,15,Standard,12,2,1,2022-08-28,True,336,181-365 days,7,2022,6,2023
+2,Female,Tablet,Canada,5,17,7,Comedy,Extremely satisfied,700,2021-09-05,2023-06-22,3,15,Premium,15,4,1,2021-10-05,True,655,>365 days,9,2021,6,2023
+6,Female,Smart TV,France,4,19,7,Comedy,Satisfied,900,2022-03-18,2023-06-27,3,15,Premium,15,4,1,2022-04-17,True,466,>365 days,3,2022,6,2023
+10,Female,Smart TV,Italy,6,19,9,Dramma,Satisfied,1000,2023-01-07,2023-06-22,3,15,Premium,15,4,1,2023-02-06,True,166,91-180 days,1,2023,6,2023
+12,Male,Tablet,Canada,6,23,10,Horror,Satisfied,600,2023-03-23,2023-06-28,3,15,Premium,15,4,1,2023-04-22,True,97,91-180 days,3,2023,6,2023
+16,Male,Tablet,France,4,25,6,Horror,Extremely satisfied,600,2022-04-07,2023-06-27,3,15,Premium,15,4,1,2022-05-07,True,446,>365 days,4,2022,6,2023
+19,Female,Smart TV,Spain,6,19,7,Comedy,Satisfied,800,2023-02-15,2023-06-23,3,15,Premium,15,4,1,2023-03-17,True,128,91-180 days,2,2023,6,2023
+21,Female,Laptop,United States,5,18,7,Comedy,Neutral,1000,2023-06-10,2023-06-22,3,15,Premium,15,4,1,2023-07-10,False,12,0-30 days,6,2023,6,2023
+26,Male,Smartphone,France,6,25,8,Horror,Extremely satisfied,900,2022-01-12,2023-06-27,3,15,Premium,15,4,1,2022-02-11,True,531,>365 days,1,2022,6,2023
+29,Female,Laptop,Spain,6,24,8,Horror,Neutral,800,2022-12-19,2023-06-23,3,15,Premium,15,4,1,2023-01-18,True,186,181-365 days,12,2022,6,2023
+31,Female,Smart TV,United States,4,20,7,Dramma,Satisfied,1000,2023-02-03,2023-06-22,3,15,Premium,15,4,1,2023-03-05,True,139,91-180 days,2,2023,6,2023
+36,Male,Tablet,France,6,17,9,Action & Adventure,Satisfied,800,2022-03-01,2023-06-27,3,15,Premium,15,4,1,2022-03-31,True,483,>365 days,3,2022,6,2023
+39,Female,Smart TV,Spain,6,24,6,Horror,Neutral,700,2022-12-28,2023-06-23,3,15,Premium,15,4,1,2023-01-27,True,177,91-180 days,12,2022,6,2023
+41,Female,Laptop,United States,5,19,9,Dramma,Satisfied,800,2023-01-20,2023-06-22,3,15,Premium,15,4,1,2023-02-19,True,153,91-180 days,1,2023,6,2023
+46,Male,Smartphone,France,5,23,6,Action & Adventure,Extremely satisfied,600,2022-02-23,2023-06-27,3,15,Premium,15,4,1,2022-03-25,True,489,>365 days,2,2022,6,2023
+49,Female,Laptop,Spain,6,18,7,Comedy,Neutral,700,2022-11-10,2023-06-23,3,15,Premium,15,4,1,2022-12-10,True,225,181-365 days,11,2022,6,2023
+51,Female,Smart TV,United States,5,17,8,Comedy,Extremely satisfied,900,2023-02-27,2023-06-22,3,15,Premium,15,4,1,2023-03-29,True,115,91-180 days,2,2023,6,2023
+56,Male,Tablet,France,6,25,8,Action & Adventure,Neutral,1000,2022-03-15,2023-06-27,3,15,Premium,15,4,1,2022-04-14,True,469,>365 days,3,2022,6,2023
+59,Female,Smart TV,Spain,4,20,8,Dramma,Extremely satisfied,700,2022-12-03,2023-06-23,3,15,Premium,15,4,1,2023-01-02,True,202,181-365 days,12,2022,6,2023
+61,Female,Laptop,United States,4,23,6,Dramma,Satisfied,700,2023-02-08,2023-06-22,3,15,Premium,15,4,1,2023-03-10,True,134,91-180 days,2,2023,6,2023
+66,Male,Smartphone,France,4,22,6,Horror,Neutral,800,2022-01-30,2023-06-27,3,15,Premium,15,4,1,2022-03-01,True,513,>365 days,1,2022,6,2023
+69,Female,Laptop,Spain,4,21,7,Dramma,Satisfied,700,2022-12-23,2023-06-23,3,15,Premium,15,4,1,2023-01-22,True,182,181-365 days,12,2022,6,2023
+74,Female,Smartphone,Australia,4,19,7,Dramma,Satisfied,600,2022-12-14,2023-06-25,3,13,Premium,15,4,1,2023-01-13,True,193,181-365 days,12,2022,6,2023
+77,Female,Smartphone,Brazil,6,18,10,Horror,Extremely satisfied,600,2022-12-25,2023-06-23,3,15,Premium,15,4,1,2023-01-24,True,180,91-180 days,12,2022,6,2023
+81,Male,Tablet,United States,4,20,9,Action & Adventure,Neutral,600,2023-01-11,2023-06-24,3,10,Premium,15,4,1,2023-02-10,True,164,91-180 days,1,2023,6,2023
+85,Female,Laptop,Germany,5,21,10,Dramma,Satisfied,900,2023-04-06,2023-06-27,3,10,Premium,15,4,1,2023-05-06,True,82,61-90 days,4,2023,6,2023
+87,Male,Smart TV,Brazil,5,24,8,Action & Adventure,Satisfied,800,2021-12-28,2023-06-23,3,15,Premium,15,4,1,2022-01-27,True,542,>365 days,12,2021,6,2023
+91,Male,Tablet,United States,5,25,8,Horror,Extremely satisfied,1000,2022-10-03,2023-06-23,3,11,Premium,15,4,1,2022-11-02,True,263,181-365 days,10,2022,6,2023
+94,Male,Smartphone,Australia,6,22,8,Action & Adventure,Satisfied,1000,2022-03-19,2023-06-25,3,12,Premium,15,4,1,2022-04-18,True,463,>365 days,3,2022,6,2023
+96,Male,Laptop,France,6,23,10,Horror,Satisfied,600,2022-07-26,2023-06-24,3,14,Premium,15,4,1,2022-08-25,True,333,181-365 days,7,2022,6,2023
+101,Female,Tablet,United States,4,18,8,Horror,Neutral,800,2022-10-17,2023-06-24,3,11,Premium,15,4,1,2022-11-16,True,250,181-365 days,10,2022,6,2023
+104,Male,Laptop,Australia,6,25,9,Action & Adventure,Satisfied,900,2022-06-08,2023-06-25,3,10,Premium,15,4,1,2022-07-08,True,382,>365 days,6,2022,6,2023
+106,Female,Tablet,France,6,25,7,Comedy,Satisfied,900,2022-03-18,2023-06-24,3,10,Premium,15,4,1,2022-04-17,True,463,>365 days,3,2022,6,2023
+111,Male,Tablet,United States,4,23,8,Action & Adventure,Satisfied,700,2022-07-14,2023-06-27,3,14,Premium,15,4,1,2022-08-13,True,348,181-365 days,7,2022,6,2023
+114,Male,Smartphone,Australia,6,18,10,Horror,Extremely satisfied,700,2022-11-18,2023-06-25,3,10,Premium,15,4,1,2022-12-18,True,219,181-365 days,11,2022,6,2023
+116,Female,Smart TV,France,4,24,9,Horror,Neutral,900,2022-05-19,2023-06-23,3,14,Premium,15,4,1,2022-06-18,True,400,>365 days,5,2022,6,2023
+121,Male,Smart TV,United States,6,19,7,Action & Adventure,Neutral,1000,2022-10-03,2023-06-24,3,15,Premium,15,4,1,2022-11-02,True,264,181-365 days,10,2022,6,2023
+124,Male,Laptop,Australia,5,24,7,Action & Adventure,Extremely satisfied,900,2022-11-05,2023-06-25,3,15,Premium,15,4,1,2022-12-05,True,232,181-365 days,11,2022,6,2023
+126,Male,Laptop,France,5,17,6,Horror,Satisfied,900,2022-09-21,2023-06-23,3,13,Premium,15,4,1,2022-10-21,True,275,181-365 days,9,2022,6,2023
+131,Male,Laptop,United States,5,21,8,Horror,Satisfied,700,2022-10-06,2023-06-23,3,15,Premium,15,4,1,2022-11-05,True,260,181-365 days,10,2022,6,2023
+134,Male,Tablet,Australia,4,22,8,Horror,Neutral,800,2022-11-05,2023-06-25,3,15,Premium,15,4,1,2022-12-05,True,232,181-365 days,11,2022,6,2023
+136,Female,Smart TV,France,5,20,8,Dramma,Extremely satisfied,900,2022-09-13,2023-06-26,3,12,Premium,15,4,1,2022-10-13,True,286,181-365 days,9,2022,6,2023
+141,Male,Smartphone,United States,6,19,8,Horror,Satisfied,900,2022-05-11,2023-06-27,3,12,Premium,15,4,1,2022-06-10,True,412,>365 days,5,2022,6,2023
+144,Male,Smart TV,Australia,4,24,6,Horror,Neutral,900,2022-08-17,2023-06-26,3,10,Premium,15,4,1,2022-09-16,True,313,181-365 days,8,2022,6,2023
+149,Female,Smart TV,Spain,6,17,9,Comedy,Satisfied,800,2022-11-17,2023-06-27,3,13,Premium,15,4,1,2022-12-17,True,222,181-365 days,11,2022,6,2023
+152,Female,Tablet,Canada,6,22,6,Dramma,Extremely satisfied,1000,2022-11-23,2023-06-27,3,14,Premium,15,4,1,2022-12-23,True,216,181-365 days,11,2022,6,2023
+156,Male,Smartphone,France,5,21,8,Horror,Satisfied,600,2022-08-19,2023-06-25,3,15,Premium,15,4,1,2022-09-18,True,310,181-365 days,8,2022,6,2023
+160,Male,Smartphone,Italy,5,24,8,Horror,Extremely satisfied,800,2022-10-27,2023-06-25,3,15,Premium,15,4,1,2022-11-26,True,241,181-365 days,10,2022,6,2023
+162,Male,Laptop,Canada,5,24,10,Horror,Neutral,1000,2022-04-19,2023-06-25,3,15,Premium,15,4,1,2022-05-19,True,432,>365 days,4,2022,6,2023
+166,Male,Laptop,France,4,17,10,Action & Adventure,Satisfied,600,2022-04-16,2023-06-26,3,13,Premium,15,4,1,2022-05-16,True,436,>365 days,4,2022,6,2023
+169,Male,Tablet,Spain,4,22,10,Action & Adventure,Neutral,900,2023-01-20,2023-06-26,3,12,Premium,15,4,1,2023-02-19,True,157,91-180 days,1,2023,6,2023
+171,Female,Tablet,United States,6,21,6,Dramma,Satisfied,900,2022-04-29,2023-06-24,3,11,Premium,15,4,1,2022-05-29,True,421,>365 days,4,2022,6,2023
+176,Female,Smart TV,France,4,24,6,Comedy,Extremely satisfied,800,2022-04-12,2023-06-25,3,13,Premium,15,4,1,2022-05-12,True,439,>365 days,4,2022,6,2023
+179,Female,Tablet,Spain,5,22,8,Comedy,Neutral,1000,2022-12-03,2023-06-26,3,10,Premium,15,4,1,2023-01-02,True,205,181-365 days,12,2022,6,2023
+181,Male,Smartphone,United States,5,21,10,Horror,Neutral,1000,2022-06-16,2023-06-27,3,15,Premium,15,4,1,2022-07-16,True,376,>365 days,6,2022,6,2023
+186,Female,Smart TV,France,5,24,9,Dramma,Satisfied,700,2022-03-01,2023-06-25,3,12,Premium,15,4,1,2022-03-31,True,481,>365 days,3,2022,6,2023
+189,Male,Smart TV,Spain,4,25,6,Action & Adventure,Satisfied,800,2022-09-02,2023-06-26,3,13,Premium,15,4,1,2022-10-02,True,297,181-365 days,9,2022,6,2023
+191,Male,Laptop,United States,6,18,7,Horror,Neutral,800,2022-07-08,2023-06-25,3,10,Premium,15,4,1,2022-08-07,True,352,181-365 days,7,2022,6,2023
+196,Female,Smart TV,France,5,20,10,Horror,Extremely satisfied,900,2022-06-09,2023-06-24,3,13,Premium,15,4,1,2022-07-09,True,380,>365 days,6,2022,6,2023
+199,Female,Tablet,Spain,6,22,6,Comedy,Extremely satisfied,1000,2022-10-31,2023-06-25,3,14,Premium,15,4,1,2022-11-30,True,237,181-365 days,10,2022,6,2023
+201,Female,Smart TV,United States,4,19,9,Dramma,Extremely satisfied,1000,2022-07-04,2023-06-27,3,11,Premium,15,4,1,2022-08-03,True,358,181-365 days,7,2022,6,2023
+206,Male,Smartphone,France,6,21,8,Action & Adventure,Extremely satisfied,900,2022-08-06,2023-06-25,3,11,Premium,15,4,1,2022-09-05,True,323,181-365 days,8,2022,6,2023
+209,Male,Laptop,Spain,4,17,8,Horror,Extremely satisfied,800,2022-12-10,2023-06-24,3,11,Premium,15,4,1,2023-01-09,True,196,181-365 days,12,2022,6,2023
+211,Male,Tablet,United States,4,19,10,Horror,Satisfied,1000,2022-11-15,2023-06-27,3,15,Premium,15,4,1,2022-12-15,True,224,181-365 days,11,2022,6,2023
+216,Female,Smart TV,France,6,23,8,Dramma,Satisfied,800,2022-10-08,2023-06-24,3,14,Premium,15,4,1,2022-11-07,True,259,181-365 days,10,2022,6,2023
+219,Female,Smartphone,Spain,6,17,8,Horror,Neutral,900,2022-11-16,2023-06-25,3,12,Premium,15,4,1,2022-12-16,True,221,181-365 days,11,2022,6,2023
+224,Female,Smartphone,Australia,5,19,6,Dramma,Satisfied,1000,2022-11-27,2023-06-29,3,15,Premium,15,4,1,2022-12-27,True,214,181-365 days,11,2022,6,2023
+227,Female,Smartphone,Brazil,5,19,8,Dramma,Extremely satisfied,600,2022-09-30,2023-06-24,3,12,Premium,15,4,1,2022-10-30,True,267,181-365 days,9,2022,6,2023
+231,Male,Smartphone,United States,4,25,6,Action & Adventure,Satisfied,1000,2022-10-29,2023-06-24,3,11,Premium,15,4,1,2022-11-28,True,238,181-365 days,10,2022,6,2023
+235,Male,Laptop,Germany,4,24,7,Horror,Extremely satisfied,800,2022-05-17,2023-06-25,3,11,Premium,15,4,1,2022-06-16,True,404,>365 days,5,2022,6,2023
+237,Female,Tablet,Brazil,6,20,9,Horror,Satisfied,800,2022-07-07,2023-06-25,3,13,Premium,15,4,1,2022-08-06,True,353,181-365 days,7,2022,6,2023
+241,Male,Laptop,United States,6,21,8,Horror,Satisfied,800,2022-05-31,2023-06-27,3,13,Premium,15,4,1,2022-06-30,True,392,>365 days,5,2022,6,2023
+244,Male,Smartphone,Australia,4,24,6,Horror,Extremely dissatisfied,1000,2022-04-26,2023-06-26,3,15,Premium,15,4,1,2022-05-26,True,426,>365 days,4,2022,6,2023
+246,Female,Smartphone,France,6,17,6,Horror,Neutral,1000,2022-05-03,2023-06-25,3,11,Premium,15,4,1,2022-06-02,True,418,>365 days,5,2022,6,2023
+251,Male,Laptop,United States,6,18,7,Horror,Neutral,700,2022-06-25,2023-06-27,3,15,Premium,15,4,1,2022-07-25,True,367,>365 days,6,2022,6,2023
+254,Female,Smart TV,Australia,6,19,8,Dramma,Neutral,600,2022-05-20,2023-06-27,3,12,Premium,15,4,1,2022-06-19,True,403,>365 days,5,2022,6,2023
+256,Male,Tablet,France,5,19,10,Action & Adventure,Satisfied,700,2022-05-30,2023-06-26,3,12,Premium,15,4,1,2022-06-29,True,392,>365 days,5,2022,6,2023
+261,Female,Smart TV,United States,5,19,9,Dramma,Extremely dissatisfied,600,2022-07-04,2023-06-25,3,13,Premium,15,4,1,2022-08-03,True,356,181-365 days,7,2022,6,2023
+264,Male,Smartphone,Australia,4,21,9,Horror,Satisfied,700,2022-08-09,2023-06-27,3,10,Premium,15,4,1,2022-09-08,True,322,181-365 days,8,2022,6,2023
+266,Male,Tablet,France,5,22,9,Horror,Neutral,800,2022-08-17,2023-06-26,3,10,Premium,15,4,1,2022-09-16,True,313,181-365 days,8,2022,6,2023
+271,Male,Laptop,United States,6,21,8,Horror,Extremely dissatisfied,1000,2022-08-20,2023-06-26,3,14,Premium,15,4,1,2022-09-19,True,310,181-365 days,8,2022,6,2023
+274,Female,Tablet,Australia,6,21,10,Comedy,Neutral,600,2022-08-01,2023-06-24,3,10,Premium,15,4,1,2022-08-31,True,327,181-365 days,8,2022,6,2023
+276,Female,Smart TV,France,4,18,6,Horror,Satisfied,1000,2022-08-09,2023-06-25,3,14,Premium,15,4,1,2022-09-08,True,320,181-365 days,8,2022,6,2023
+281,Female,Smart TV,United States,6,18,9,Horror,Extremely dissatisfied,800,2022-11-02,2023-06-28,3,12,Premium,15,4,1,2022-12-02,True,238,181-365 days,11,2022,6,2023
+284,Female,Smartphone,Australia,6,22,10,Comedy,Extremely satisfied,600,2022-08-04,2023-06-28,3,14,Premium,15,4,1,2022-09-03,True,328,181-365 days,8,2022,6,2023
+286,Female,Laptop,France,4,21,8,Dramma,Satisfied,800,2022-10-14,2023-06-27,3,14,Premium,15,4,1,2022-11-13,True,256,181-365 days,10,2022,6,2023
+291,Female,Tablet,United States,4,21,6,Dramma,Extremely dissatisfied,800,2022-12-04,2023-06-27,3,13,Premium,15,4,1,2023-01-03,True,205,181-365 days,12,2022,6,2023
+294,Male,Laptop,Australia,6,20,8,Action & Adventure,Extremely dissatisfied,900,2022-10-15,2023-06-29,3,10,Premium,15,4,1,2022-11-14,True,257,181-365 days,10,2022,6,2023
+299,Male,Smartphone,Spain,6,25,8,Action & Adventure,Extremely satisfied,600,2022-10-30,2023-06-27,3,10,Premium,15,4,1,2022-11-29,True,240,181-365 days,10,2022,6,2023
+302,Male,Tablet,Canada,6,20,8,Action & Adventure,Extremely dissatisfied,800,2022-09-14,2023-06-27,3,11,Premium,15,4,1,2022-10-14,True,286,181-365 days,9,2022,6,2023
+306,Male,Tablet,France,4,17,7,Action & Adventure,Extremely dissatisfied,900,2022-07-06,2023-06-27,3,13,Premium,15,4,1,2022-08-05,True,356,181-365 days,7,2022,6,2023
+310,Female,Smartphone,Italy,5,21,6,Dramma,Satisfied,600,2022-06-14,2023-06-26,3,15,Premium,15,4,1,2022-07-14,True,377,>365 days,6,2022,6,2023
+312,Male,Laptop,Canada,5,20,8,Action & Adventure,Neutral,800,2022-05-27,2023-06-26,3,12,Premium,15,4,1,2022-06-26,True,395,>365 days,5,2022,6,2023
+316,Female,Laptop,France,4,17,7,Dramma,Satisfied,800,2022-05-27,2023-06-25,3,12,Premium,15,4,1,2022-06-26,True,394,>365 days,5,2022,6,2023
+319,Female,Smartphone,Spain,4,23,9,Dramma,Satisfied,600,2022-08-22,2023-06-26,3,14,Premium,15,4,1,2022-09-21,True,308,181-365 days,8,2022,6,2023
+321,Female,Smartphone,United States,5,21,7,Comedy,Extremely satisfied,800,2022-06-22,2023-06-27,3,12,Premium,15,4,1,2022-07-22,True,370,>365 days,6,2022,6,2023
+326,Male,Smartphone,France,5,18,9,Action & Adventure,Dissatisfied,800,2022-06-11,2023-06-27,3,11,Premium,15,4,1,2022-07-11,True,381,>365 days,6,2022,6,2023
+329,Female,Smart TV,Spain,5,17,6,Horror,Extremely satisfied,700,2022-07-22,2023-06-25,3,11,Premium,15,4,1,2022-08-21,True,338,181-365 days,7,2022,6,2023
+331,Female,Tablet,United States,5,27,3,Dramma,Satisfied,3400,2022-07-08,2023-06-26,3,14,Premium,15,4,1,2022-08-07,True,353,181-365 days,7,2022,6,2023
+336,Male,Laptop,France,6,26,4,Action & Adventure,Satisfied,4100,2022-09-02,2023-06-26,3,12,Premium,15,4,1,2022-10-02,True,297,181-365 days,9,2022,6,2023
+339,Female,Laptop,Spain,4,31,2,Horror,Satisfied,3500,2022-10-05,2023-06-25,3,13,Premium,15,4,1,2022-11-04,True,263,181-365 days,10,2022,6,2023
+341,Female,Laptop,United States,5,35,2,Dramma,Satisfied,3600,2022-08-24,2023-06-26,3,13,Premium,15,4,1,2022-09-23,True,306,181-365 days,8,2022,6,2023
+346,Male,Tablet,France,6,35,3,Horror,Neutral,3600,2022-08-31,2023-06-26,3,15,Premium,15,4,1,2022-09-30,True,299,181-365 days,8,2022,6,2023
+349,Male,Smartphone,Spain,6,26,3,Horror,Neutral,4100,2022-11-02,2023-06-26,3,14,Premium,15,4,1,2022-12-02,True,236,181-365 days,11,2022,6,2023
+351,Female,Smart TV,United States,4,33,3,Horror,Satisfied,3400,2022-11-02,2023-06-28,3,11,Premium,15,4,1,2022-12-02,True,238,181-365 days,11,2022,6,2023
+356,Male,Smart TV,France,5,30,4,Horror,Neutral,3400,2022-10-14,2023-06-30,3,11,Premium,15,4,1,2022-11-13,True,259,181-365 days,10,2022,6,2023
+359,Male,Smartphone,Spain,6,31,2,Action & Adventure,Extremely satisfied,4100,2022-11-20,2023-06-26,3,11,Premium,15,4,1,2022-12-20,True,218,181-365 days,11,2022,6,2023
+361,Female,Laptop,United States,6,33,4,Comedy,Extremely satisfied,3700,2022-11-25,2023-06-28,3,12,Premium,15,4,1,2022-12-25,True,215,181-365 days,11,2022,6,2023
+366,Male,Smart TV,France,6,28,4,Horror,Satisfied,3600,2022-10-17,2023-06-29,3,12,Premium,15,4,1,2022-11-16,True,255,181-365 days,10,2022,6,2023
+369,Female,Smartphone,Spain,5,34,3,Horror,Satisfied,4100,2022-10-25,2023-06-27,3,12,Premium,15,4,1,2022-11-24,True,245,181-365 days,10,2022,6,2023
+374,Female,Laptop,Australia,4,31,3,Comedy,Extremely satisfied,3600,2022-06-12,2023-06-28,3,10,Premium,15,4,1,2022-07-12,True,381,>365 days,6,2022,6,2023
+377,Male,Laptop,Brazil,4,34,3,Action & Adventure,Satisfied,2200,2022-08-27,2023-06-28,3,12,Premium,15,4,1,2022-09-26,True,305,181-365 days,8,2022,6,2023
+381,Female,Laptop,United States,4,27,4,Dramma,Neutral,4200,2022-07-14,2023-06-27,3,10,Premium,15,4,1,2022-08-13,True,348,181-365 days,7,2022,6,2023
+385,Male,Smartphone,Germany,6,32,3,Horror,Neutral,3600,2022-05-22,2023-06-27,3,15,Premium,15,4,1,2022-06-21,True,401,>365 days,5,2022,6,2023
+387,Female,Tablet,Brazil,5,35,4,Comedy,Satisfied,1700,2022-07-19,2023-06-28,3,11,Premium,15,4,1,2022-08-18,True,344,181-365 days,7,2022,6,2023
+391,Male,Laptop,United States,5,30,3,Horror,Neutral,3400,2022-06-23,2023-06-27,3,13,Premium,15,4,1,2022-07-23,True,369,>365 days,6,2022,6,2023
+394,Female,Tablet,Australia,4,29,4,Horror,Neutral,3500,2022-05-30,2023-06-27,3,14,Premium,15,4,1,2022-06-29,True,393,>365 days,5,2022,6,2023
+396,Female,Smartphone,France,6,30,3,Dramma,Satisfied,4200,2022-06-10,2023-06-27,3,14,Premium,15,4,1,2022-07-10,True,382,>365 days,6,2022,6,2023
+401,Female,Laptop,United States,4,34,3,Horror,Satisfied,3400,2022-07-17,2023-06-26,3,12,Premium,15,4,1,2022-08-16,True,344,181-365 days,7,2022,6,2023
+404,Male,Smartphone,Australia,6,32,3,Action & Adventure,Satisfied,3600,2022-08-01,2023-06-28,3,13,Premium,15,4,1,2022-08-31,True,331,181-365 days,8,2022,6,2023
+406,Female,Smartphone,France,6,31,4,Comedy,Extremely satisfied,3400,2022-08-19,2023-06-26,3,12,Premium,15,4,1,2022-09-18,True,311,181-365 days,8,2022,6,2023
+411,Female,Tablet,United States,5,33,2,Dramma,Neutral,4100,2022-09-03,2023-06-26,3,14,Premium,15,4,1,2022-10-03,True,296,181-365 days,9,2022,6,2023
+414,Female,Laptop,Australia,6,26,2,Comedy,Satisfied,3700,2022-08-21,2023-06-27,3,14,Premium,15,4,1,2022-09-20,True,310,181-365 days,8,2022,6,2023
+416,Male,Tablet,France,4,26,4,Horror,Satisfied,3700,2022-09-02,2023-06-26,3,10,Premium,15,4,1,2022-10-02,True,297,181-365 days,9,2022,6,2023
+421,Male,Tablet,United States,5,31,3,Horror,Neutral,3700,2022-10-16,2023-06-28,3,14,Premium,15,4,1,2022-11-15,True,255,181-365 days,10,2022,6,2023
+424,Female,Tablet,Australia,4,26,3,Comedy,Satisfied,3700,2022-09-18,2023-06-29,3,12,Premium,15,4,1,2022-10-18,True,284,181-365 days,9,2022,6,2023
+426,Male,Laptop,France,4,32,2,Action & Adventure,Satisfied,4200,2022-10-05,2023-06-30,3,15,Premium,15,4,1,2022-11-04,True,268,181-365 days,10,2022,6,2023
+431,Male,Smart TV,United States,6,34,4,Horror,Neutral,4000,2022-12-04,2023-06-28,3,15,Premium,15,4,1,2023-01-03,True,206,181-365 days,12,2022,6,2023
+434,Female,Laptop,Australia,6,31,3,Horror,Extremely satisfied,3700,2022-10-15,2023-06-29,3,12,Premium,15,4,1,2022-11-14,True,257,181-365 days,10,2022,6,2023
+436,Female,Smartphone,France,5,34,3,Dramma,Neutral,3500,2022-10-19,2023-06-29,3,11,Premium,15,4,1,2022-11-18,True,253,181-365 days,10,2022,6,2023
+441,Female,Laptop,United States,5,35,2,Dramma,Extremely satisfied,4100,2022-10-05,2023-06-28,3,13,Premium,15,4,1,2022-11-04,True,266,181-365 days,10,2022,6,2023
+444,Female,Smartphone,Australia,4,30,3,Comedy,Satisfied,3900,2022-06-25,2023-06-28,3,10,Premium,15,4,1,2022-07-25,True,368,>365 days,6,2022,6,2023
+449,Female,Laptop,Spain,4,27,4,Comedy,Extremely satisfied,4200,2022-08-07,2023-06-28,3,10,Premium,15,4,1,2022-09-06,True,325,181-365 days,8,2022,6,2023
+452,Female,Laptop,Canada,5,28,3,Horror,Satisfied,3600,2022-06-16,2023-06-26,3,12,Premium,15,4,1,2022-07-16,True,375,>365 days,6,2022,6,2023
+456,Male,Tablet,France,6,32,3,Horror,Satisfied,4200,2022-06-04,2023-06-27,3,14,Premium,15,4,1,2022-07-04,True,388,>365 days,6,2022,6,2023
+460,Female,Smart TV,Italy,5,32,4,Comedy,Neutral,3900,2022-06-30,2023-06-28,3,10,Premium,15,4,1,2022-07-30,True,363,181-365 days,6,2022,6,2023
+462,Male,Smartphone,Canada,4,26,2,Action & Adventure,Satisfied,3900,2022-06-10,2023-06-28,3,15,Premium,15,4,1,2022-07-10,True,383,>365 days,6,2022,6,2023
+466,Male,Laptop,France,4,27,4,Action & Adventure,Satisfied,3800,2022-06-07,2023-06-27,3,10,Premium,15,4,1,2022-07-07,True,385,>365 days,6,2022,6,2023
+469,Female,Tablet,Spain,6,33,2,Dramma,Satisfied,3400,2022-06-29,2023-06-29,3,12,Premium,15,4,1,2022-07-29,True,365,181-365 days,6,2022,6,2023
+471,Male,Tablet,United States,4,29,4,Horror,Satisfied,3400,2022-07-08,2023-06-27,3,15,Premium,15,4,1,2022-08-07,True,354,181-365 days,7,2022,6,2023
+476,Female,Laptop,France,5,34,4,Dramma,Satisfied,3800,2022-08-18,2023-06-26,3,14,Premium,15,4,1,2022-09-17,True,312,181-365 days,8,2022,6,2023
+479,Female,Smartphone,Spain,4,30,2,Comedy,Satisfied,3900,2022-09-04,2023-06-27,3,13,Premium,15,4,1,2022-10-04,True,296,181-365 days,9,2022,6,2023
+481,Male,Smart TV,United States,6,33,3,Action & Adventure,Satisfied,4200,2022-09-04,2023-06-26,3,12,Premium,15,4,1,2022-10-04,True,295,181-365 days,9,2022,6,2023
+486,Female,Laptop,France,4,31,3,Horror,Satisfied,3500,2022-09-13,2023-06-26,3,15,Premium,15,4,1,2022-10-13,True,286,181-365 days,9,2022,6,2023
+489,Male,Tablet,Spain,4,27,3,Horror,Neutral,3400,2022-10-26,2023-06-28,3,11,Premium,15,4,1,2022-11-25,True,245,181-365 days,10,2022,6,2023
+491,Female,Smartphone,United States,6,27,4,Horror,Neutral,3600,2022-10-07,2023-06-28,3,12,Premium,15,4,1,2022-11-06,True,264,181-365 days,10,2022,6,2023
+496,Female,Laptop,France,6,35,2,Horror,Neutral,4100,2022-10-30,2023-06-30,3,10,Premium,15,4,1,2022-11-29,True,243,181-365 days,10,2022,6,2023
+499,Female,Laptop,Spain,4,29,3,Dramma,Satisfied,3400,2022-11-18,2023-06-26,3,10,Premium,15,4,1,2022-12-18,True,220,181-365 days,11,2022,6,2023
+501,Male,Smartphone,Spain,5,27,2,Horror,Dissatisfied,3500,2022-11-22,2023-06-28,3,14,Premium,15,4,1,2022-12-22,True,218,181-365 days,11,2022,6,2023
+506,Male,Smart TV,United States,6,27,3,Horror,Neutral,3600,2022-10-23,2023-06-29,3,14,Premium,15,4,1,2022-11-22,True,249,181-365 days,10,2022,6,2023
+509,Male,Smartphone,Australia,4,31,3,Action & Adventure,Extremely dissatisfied,4100,2022-10-21,2023-06-28,3,10,Premium,15,4,1,2022-11-20,True,250,181-365 days,10,2022,6,2023
+511,Female,Smart TV,France,4,28,3,Dramma,Neutral,3700,2022-07-26,2023-06-28,3,11,Premium,15,4,1,2022-08-25,True,337,181-365 days,7,2022,6,2023
+516,Female,Smart TV,Spain,6,32,2,Comedy,Extremely dissatisfied,4000,2022-07-31,2023-06-28,3,14,Premium,15,4,1,2022-08-30,True,332,181-365 days,7,2022,6,2023
+519,Male,Smartphone,Canada,5,35,4,Action & Adventure,Dissatisfied,3500,2022-08-06,2023-06-28,3,10,Premium,15,4,1,2022-09-05,True,326,181-365 days,8,2022,6,2023
+524,Male,Tablet,Australia,5,35,4,Action & Adventure,Dissatisfied,3600,2022-06-06,2023-06-28,3,15,Premium,15,4,1,2022-07-06,True,387,>365 days,6,2022,6,2023
+527,Female,Tablet,Brazil,6,34,4,Dramma,Extremely dissatisfied,1800,2022-07-10,2023-06-28,3,10,Premium,15,4,1,2022-08-09,True,353,181-365 days,7,2022,6,2023
+531,Female,Laptop,Spain,4,30,2,Horror,Dissatisfied,3600,2022-06-15,2023-06-27,3,14,Premium,15,4,1,2022-07-15,True,377,>365 days,6,2022,6,2023
+535,Female,Laptop,United States,4,34,3,Horror,Dissatisfied,3400,2022-06-07,2023-06-29,3,15,Premium,15,4,1,2022-07-07,True,387,>365 days,6,2022,6,2023
+537,Male,Smartphone,Canada,6,26,2,Action & Adventure,Satisfied,3500,2022-06-17,2023-06-27,3,10,Premium,15,4,1,2022-07-17,True,375,>365 days,6,2022,6,2023
+541,Male,Smart TV,France,5,32,4,Horror,Satisfied,3500,2022-07-13,2023-06-27,3,10,Premium,15,4,1,2022-08-12,True,349,181-365 days,7,2022,6,2023
+544,Male,Tablet,Spain,5,28,2,Others,Neutral,3600,2022-08-08,2023-06-28,3,14,Premium,15,4,1,2022-09-07,True,324,181-365 days,8,2022,6,2023
+546,Male,Smart TV,Spain,6,32,2,Dramma,Satisfied,3800,2022-08-20,2023-06-26,3,10,Premium,15,4,1,2022-09-19,True,310,181-365 days,8,2022,6,2023
+551,Female,Laptop,United States,5,28,4,Action & Adventure,Neutral,3400,2022-09-03,2023-06-28,3,13,Premium,15,4,1,2022-10-03,True,298,181-365 days,9,2022,6,2023
+554,Male,Smartphone,Australia,6,26,4,Dramma,Extremely dissatisfied,3700,2022-08-29,2023-06-29,3,12,Premium,15,4,1,2022-09-28,True,304,181-365 days,8,2022,6,2023
+556,Male,Smartphone,France,6,28,4,Comedy,Extremely satisfied,3900,2022-09-24,2023-06-27,3,14,Premium,15,4,1,2022-10-24,True,276,181-365 days,9,2022,6,2023
+561,Female,Laptop,Spain,6,34,2,Comedy,Dissatisfied,4200,2022-09-30,2023-06-28,3,14,Premium,15,4,1,2022-10-30,True,271,181-365 days,9,2022,6,2023
+564,Male,Smartphone,Canada,5,28,2,Action & Adventure,Neutral,3800,2022-09-28,2023-06-29,3,14,Premium,15,4,1,2022-10-28,True,274,181-365 days,9,2022,6,2023
+566,Male,Tablet,United States,5,30,3,Action & Adventure,Extremely dissatisfied,3600,2022-10-11,2023-07-01,3,11,Premium,15,4,1,2022-11-10,True,263,181-365 days,10,2022,7,2023
+571,Male,Smart TV,France,6,34,4,Action & Adventure,Dissatisfied,4000,2022-11-21,2023-06-29,3,13,Premium,15,4,1,2022-12-21,True,220,181-365 days,11,2022,6,2023
+574,Female,Smartphone,Spain,4,35,4,Action & Adventure,Extremely satisfied,3900,2022-10-26,2023-06-29,3,14,Premium,15,4,1,2022-11-25,True,246,181-365 days,10,2022,6,2023
+576,Female,Tablet,Spain,6,32,4,Horror,Dissatisfied,3600,2022-10-26,2023-06-30,3,15,Premium,15,4,1,2022-11-25,True,247,181-365 days,10,2022,6,2023
+581,Female,Laptop,United States,5,44,3,Horror,Satisfied,3400,2022-08-02,2023-06-29,3,10,Premium,15,4,1,2022-09-01,True,331,181-365 days,8,2022,6,2023
+584,Female,Smart TV,Australia,4,44,3,Comedy,Satisfied,3600,2022-07-14,2023-06-28,3,14,Premium,15,4,1,2022-08-13,True,349,181-365 days,7,2022,6,2023
+586,Female,Laptop,France,4,35,4,Horror,Dissatisfied,4000,2022-08-06,2023-06-29,3,15,Premium,15,4,1,2022-09-05,True,327,181-365 days,8,2022,6,2023
+591,Female,Smart TV,Spain,5,41,1,Others,Neutral,3700,2022-06-19,2023-06-28,3,14,Premium,15,4,1,2022-07-19,True,374,>365 days,6,2022,6,2023
+594,Female,Smart TV,Canada,4,37,1,Action & Adventure,Satisfied,3700,2022-06-06,2023-06-30,3,12,Premium,15,4,1,2022-07-06,True,389,>365 days,6,2022,6,2023
+599,Male,Smart TV,Australia,4,43,2,Comedy,Satisfied,3500,2022-07-06,2023-06-27,3,15,Premium,15,4,1,2022-08-05,True,356,181-365 days,7,2022,6,2023
+602,Male,Smartphone,Brazil,6,44,1,Comedy,Dissatisfied,1900,2022-06-05,2023-06-29,3,14,Premium,15,4,1,2022-07-05,True,389,>365 days,6,2022,6,2023
+606,Male,Tablet,Spain,5,41,1,Action & Adventure,Satisfied,4000,2022-06-13,2023-06-29,3,14,Premium,15,4,1,2022-07-13,True,381,>365 days,6,2022,6,2023
+610,Female,Tablet,United States,4,41,1,Others,Dissatisfied,4100,2022-07-05,2023-06-29,3,13,Premium,15,4,1,2022-08-04,True,359,181-365 days,7,2022,6,2023
+612,Male,Smart TV,Canada,6,38,2,Others,Dissatisfied,3800,2022-07-17,2023-06-27,3,11,Premium,15,4,1,2022-08-16,True,345,181-365 days,7,2022,6,2023
+616,Female,Laptop,France,4,41,3,Horror,Dissatisfied,4200,2022-09-02,2023-06-27,3,14,Premium,15,4,1,2022-10-02,True,298,181-365 days,9,2022,6,2023
+619,Male,Smartphone,Spain,6,36,1,Comedy,Satisfied,3600,2022-09-06,2023-06-29,3,11,Premium,15,4,1,2022-10-06,True,296,181-365 days,9,2022,6,2023
+621,Male,Smart TV,Spain,6,41,3,Horror,Satisfied,3600,2022-09-06,2023-06-29,3,14,Premium,15,4,1,2022-10-06,True,296,181-365 days,9,2022,6,2023
+626,Male,Laptop,United States,5,42,1,Horror,Neutral,4100,2022-09-23,2023-06-30,3,10,Premium,15,4,1,2022-10-23,True,280,181-365 days,9,2022,6,2023
+629,Male,Tablet,Australia,1,40,3,Others,Dissatisfied,3400,2022-10-12,2023-06-29,3,11,Premium,15,4,1,2022-11-11,True,260,181-365 days,10,2022,6,2023
+631,Male,Smartphone,France,3,44,3,Dramma,Satisfied,3700,2022-09-21,2023-06-28,3,14,Premium,15,4,1,2022-10-21,True,280,181-365 days,9,2022,6,2023
+636,Female,Smart TV,Spain,1,40,3,Comedy,Satisfied,4200,2022-10-28,2023-07-01,3,10,Premium,15,4,1,2022-11-27,True,246,181-365 days,10,2022,7,2023
+639,Female,Laptop,Canada,1,38,1,Action & Adventure,Dissatisfied,3400,2022-11-17,2023-06-28,3,10,Premium,15,4,1,2022-12-17,True,223,181-365 days,11,2022,6,2023
+641,Male,Tablet,United States,3,35,2,Dramma,Satisfied,3800,2022-11-21,2023-06-29,3,12,Premium,15,4,1,2022-12-21,True,220,181-365 days,11,2022,6,2023
+646,Female,Laptop,France,1,38,2,Comedy,Dissatisfied,3900,2022-10-27,2023-06-30,3,10,Premium,15,4,1,2022-11-26,True,246,181-365 days,10,2022,6,2023
+649,Female,Smartphone,Spain,3,44,3,Action & Adventure,Dissatisfied,3700,2022-08-20,2023-06-29,3,14,Premium,15,4,1,2022-09-19,True,313,181-365 days,8,2022,6,2023
+651,Male,Tablet,Spain,1,41,1,Comedy,Satisfied,4200,2022-08-15,2023-06-29,3,13,Premium,15,4,1,2022-09-14,True,318,181-365 days,8,2022,6,2023
+656,Female,Laptop,United States,3,37,3,Action & Adventure,Dissatisfied,4100,2022-07-31,2023-06-29,3,14,Premium,15,4,1,2022-08-30,True,333,181-365 days,7,2022,6,2023
+659,Male,Laptop,Australia,1,39,1,Dramma,Dissatisfied,3800,2022-08-03,2023-06-29,3,13,Premium,15,4,1,2022-09-02,True,330,181-365 days,8,2022,6,2023
+661,Female,Laptop,France,1,36,2,Horror,Neutral,3500,2022-06-27,2023-06-28,3,14,Premium,15,4,1,2022-07-27,True,366,>365 days,6,2022,6,2023
+666,Female,Tablet,Spain,3,39,2,Comedy,Dissatisfied,3800,2022-06-26,2023-06-29,3,15,Premium,15,4,1,2022-07-26,True,368,>365 days,6,2022,6,2023
+669,Female,Tablet,Canada,1,40,3,Action & Adventure,Dissatisfied,3700,2022-06-19,2023-06-28,3,13,Premium,15,4,1,2022-07-19,True,374,>365 days,6,2022,6,2023
+674,Female,Laptop,Australia,2,44,3,Dramma,Satisfied,3400,2022-06-10,2023-06-28,3,13,Premium,15,4,1,2022-07-10,True,383,>365 days,6,2022,6,2023
+677,Male,Smart TV,Brazil,2,38,3,Horror,Neutral,1800,2022-06-17,2023-06-28,3,13,Premium,15,4,1,2022-07-17,True,376,>365 days,6,2022,6,2023
+681,Male,Laptop,Spain,1,44,1,Dramma,Dissatisfied,3800,2022-07-16,2023-06-28,3,11,Premium,15,4,1,2022-08-15,True,347,181-365 days,7,2022,6,2023
+685,Male,Smartphone,United States,1,36,3,Horror,Dissatisfied,4000,2022-08-15,2023-06-30,3,12,Premium,15,4,1,2022-09-14,True,319,181-365 days,8,2022,6,2023
+687,Female,Tablet,Canada,3,40,3,Horror,Dissatisfied,4100,2022-08-26,2023-06-29,3,13,Premium,15,4,1,2022-09-25,True,307,181-365 days,8,2022,6,2023
+691,Female,Laptop,France,3,35,2,Horror,Neutral,4000,2022-09-01,2023-06-29,3,11,Premium,15,4,1,2022-10-01,True,301,181-365 days,9,2022,6,2023
+694,Male,Smart TV,Spain,3,42,2,Others,Neutral,3400,2022-09-17,2023-07-01,3,14,Premium,15,4,1,2022-10-17,True,287,181-365 days,9,2022,7,2023
+696,Male,Tablet,Spain,1,43,2,Comedy,Dissatisfied,4100,2022-09-29,2023-07-01,3,15,Premium,15,4,1,2022-10-29,True,275,181-365 days,9,2022,7,2023
+701,Male,Smart TV,United States,3,36,1,Dramma,Satisfied,3800,2022-09-24,2023-06-28,3,11,Premium,15,4,1,2022-10-24,True,277,181-365 days,9,2022,6,2023
+704,Female,Tablet,Australia,3,42,1,Action & Adventure,Satisfied,3500,2022-09-30,2023-07-01,3,13,Premium,15,4,1,2022-10-30,True,274,181-365 days,9,2022,7,2023
+706,Female,Smartphone,France,3,38,2,Action & Adventure,Dissatisfied,3800,2022-10-24,2023-07-01,3,12,Premium,15,4,1,2022-11-23,True,250,181-365 days,10,2022,7,2023
+711,Female,Laptop,Spain,3,44,3,Dramma,Satisfied,4100,2022-11-15,2023-06-29,3,14,Premium,15,4,1,2022-12-15,True,226,181-365 days,11,2022,6,2023
+714,Male,Tablet,Canada,3,36,3,Action & Adventure,Satisfied,4200,2022-10-30,2023-06-29,3,15,Premium,15,4,1,2022-11-29,True,242,181-365 days,10,2022,6,2023
+716,Male,Laptop,United States,3,44,2,Horror,Satisfied,3400,2022-10-26,2023-06-30,3,10,Premium,15,4,1,2022-11-25,True,247,181-365 days,10,2022,6,2023
+721,Female,Tablet,France,2,37,3,Others,Satisfied,3400,2022-08-16,2023-06-29,3,10,Premium,15,4,1,2022-09-15,True,317,181-365 days,8,2022,6,2023
+724,Male,Laptop,Spain,2,44,3,Others,Extremely satisfied,3800,2022-08-01,2023-06-29,3,14,Premium,15,4,1,2022-08-31,True,332,181-365 days,8,2022,6,2023
+726,Male,Laptop,Spain,2,43,3,Horror,Extremely dissatisfied,3900,2022-08-02,2023-06-30,3,14,Premium,15,4,1,2022-09-01,True,332,181-365 days,8,2022,6,2023
+731,Male,Tablet,United States,2,35,3,Horror,Neutral,3500,2022-06-19,2023-06-29,3,13,Premium,15,4,1,2022-07-19,True,375,>365 days,6,2022,6,2023
+734,Male,Tablet,Australia,1,40,1,Horror,Neutral,3700,2022-06-19,2023-06-30,3,14,Premium,15,4,1,2022-07-19,True,376,>365 days,6,2022,6,2023
+736,Male,Smartphone,France,2,41,2,Dramma,Extremely dissatisfied,4000,2022-06-30,2023-06-30,3,11,Premium,15,4,1,2022-07-30,True,365,181-365 days,6,2022,6,2023
+741,Male,Smart TV,Spain,3,38,1,Horror,Dissatisfied,4100,2022-06-09,2023-06-30,3,14,Premium,15,4,1,2022-07-09,True,386,>365 days,6,2022,6,2023
+744,Female,Tablet,Canada,2,69,1,Comedy,Neutral,4200,2022-06-11,2023-06-29,3,13,Premium,15,4,1,2022-07-11,True,383,>365 days,6,2022,6,2023
+749,Male,Smart TV,Australia,2,55,2,Horror,Neutral,3400,2022-07-06,2023-06-30,3,12,Premium,15,4,1,2022-08-05,True,359,181-365 days,7,2022,6,2023
+752,Female,Smartphone,Brazil,3,48,1,Action & Adventure,Neutral,2400,2022-07-24,2023-06-28,3,10,Premium,15,4,1,2022-08-23,True,339,181-365 days,7,2022,6,2023
+756,Female,Smartphone,Spain,2,61,2,Action & Adventure,Satisfied,3400,2022-08-23,2023-06-29,3,14,Premium,15,4,1,2022-09-22,True,310,181-365 days,8,2022,6,2023
+760,Female,Smartphone,United States,2,70,3,Others,Extremely satisfied,3800,2022-09-04,2023-07-01,3,13,Premium,15,4,1,2022-10-04,True,300,181-365 days,9,2022,7,2023
+762,Male,Laptop,Canada,3,70,2,Action & Adventure,Neutral,4000,2022-09-01,2023-07-02,3,10,Premium,15,4,1,2022-10-01,True,304,181-365 days,9,2022,7,2023
+766,Male,Smartphone,France,3,47,2,Comedy,Neutral,3500,2022-09-30,2023-07-01,3,13,Premium,15,4,1,2022-10-30,True,274,181-365 days,9,2022,7,2023
+769,Female,Smart TV,Spain,2,67,2,Dramma,Extremely satisfied,4100,2022-10-08,2023-06-30,3,14,Premium,15,4,1,2022-11-07,True,265,181-365 days,10,2022,6,2023
+771,Male,Tablet,Spain,1,67,1,Action & Adventure,Neutral,3700,2022-10-04,2023-06-28,3,14,Premium,15,4,1,2022-11-03,True,267,181-365 days,10,2022,6,2023
+776,Male,Laptop,United States,3,62,1,Comedy,Extremely satisfied,3800,2022-10-21,2023-07-01,3,11,Premium,15,4,1,2022-11-20,True,253,181-365 days,10,2022,7,2023
+779,Female,Smart TV,Australia,2,58,1,Comedy,Dissatisfied,3900,2022-11-07,2023-06-28,3,10,Premium,15,4,1,2022-12-07,True,233,181-365 days,11,2022,6,2023
+781,Female,Smartphone,France,2,64,2,Action & Adventure,Dissatisfied,3700,2022-11-13,2023-06-29,3,14,Premium,15,4,1,2022-12-13,True,228,181-365 days,11,2022,6,2023
+786,Male,Smart TV,Spain,3,48,1,Others,Satisfied,4200,2022-10-24,2023-06-30,3,13,Premium,15,4,1,2022-11-23,True,249,181-365 days,10,2022,6,2023
+789,Female,Smartphone,Canada,1,66,1,Dramma,Extremely satisfied,3400,2022-09-02,2023-06-30,3,11,Premium,15,4,1,2022-10-02,True,301,181-365 days,9,2022,6,2023
+791,Male,Smartphone,United States,2,49,2,Others,Dissatisfied,4200,2022-08-25,2023-06-30,3,15,Premium,15,4,1,2022-09-24,True,309,181-365 days,8,2022,6,2023
+796,Male,Smart TV,France,1,60,2,Comedy,Satisfied,3800,2022-08-04,2023-07-01,3,12,Premium,15,4,1,2022-09-03,True,331,181-365 days,8,2022,7,2023
+799,Male,Tablet,Spain,2,61,2,Dramma,Dissatisfied,4100,2022-07-02,2023-06-30,3,10,Premium,15,4,1,2022-08-01,True,363,181-365 days,7,2022,6,2023
+801,Male,Smartphone,Spain,3,47,3,Comedy,Neutral,3500,2022-06-22,2023-06-29,3,10,Premium,15,4,1,2022-07-22,True,372,>365 days,6,2022,6,2023
+806,Female,Laptop,United States,1,64,1,Others,Extremely satisfied,3500,2022-07-01,2023-06-30,3,15,Premium,15,4,1,2022-07-31,True,364,181-365 days,7,2022,6,2023
+809,Male,Smartphone,Australia,2,58,3,Others,Neutral,3400,2022-06-22,2023-06-28,3,10,Premium,15,4,1,2022-07-22,True,371,>365 days,6,2022,6,2023
+811,Male,Laptop,France,1,60,2,Comedy,Dissatisfied,3600,2022-06-10,2023-06-30,3,13,Premium,15,4,1,2022-07-10,True,385,>365 days,6,2022,6,2023
+816,Female,Smart TV,Spain,3,67,3,Others,Dissatisfied,3500,2022-06-18,2023-06-30,3,15,Premium,15,4,1,2022-07-18,True,377,>365 days,6,2022,6,2023
+819,Male,Laptop,Canada,2,59,2,Horror,Neutral,3500,2022-07-01,2023-07-01,3,14,Premium,15,4,1,2022-07-31,True,365,181-365 days,7,2022,7,2023
+824,Female,Smartphone,Australia,1,56,1,Horror,Neutral,4200,2022-07-31,2023-06-30,3,13,Premium,15,4,1,2022-08-30,True,334,181-365 days,7,2022,6,2023
