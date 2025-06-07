@@ -12,4 +12,5 @@ Not to mention if income affects the subscription plans and methods. Lastly rete
 Which I thought would be a great insight for a marketing team, content recommendations, and improving retention.
 
 Tableau Public Dashboard 1: https://public.tableau.com/app/profile/dinara.ibotova/viz/NetflixProject-AnalysisofMonthlyIncomebySubscriptionMethodandGender/Dashboard1?publish=yes
-Tableau Public Dashboard 2:
+
+Tableau Public Dashboard 2: https://public.tableau.com/app/profile/dinara.ibotova/viz/NetflixProject-NetflixDashboard2outof2/Dashboard2?publish=yes
