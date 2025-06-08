@@ -25,3 +25,10 @@ Which I thought would be a great insight for a marketing team, content recommend
 ## Tableu Public Dashboard: 
 Tableau Public Dashboard 1: https://public.tableau.com/app/profile/dinara.ibotova/viz/NetflixProject-AnalysisofMonthlyIncomebySubscriptionMethodandGender/Dashboard1?publish=yes
 Tableau Public Dashboard 2: https://public.tableau.com/app/profile/dinara.ibotova/viz/NetflixProject-NetflixDashboard2outof2/Dashboard2?publish=yes
+
+## Next Steps
+
+## Conclusion
+
+## References
+- [Kaggle Data] (https://www.kaggle.com/datasets/chul24/data-neflix/data)
