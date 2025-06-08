@@ -62,14 +62,7 @@ This project analyzes Netflix user data from Kaggle to understand user behavior,
 - User join rates peak mid-year (June), with a slight decline toward year-end.
 
 **Days Since Join:**
-- Most users are retained between 
-
-  
-  
-
-My questions are based on getting to know subscribers, such as the highest number of subscribers based on their country of residence. I was also curious to identify viewing patterns based on gender preferences.
-Not to mention if income affects the subscription plans and methods. Lastly retention rate by measuring how well does or doesn't retain its users over time.
-Which I thought would be a great insight for a marketing team, content recommendations, and improving retention.
+- Most users are retained between 250 - 400 days after joining.
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
