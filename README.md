@@ -21,14 +21,21 @@ My questions are based on getting to know subscribers, such as the highest numbe
 Not to mention if income affects the subscription plans and methods. Lastly retention rate by measuring how well does or doesn't retain its users over time.
 Which I thought would be a great insight for a marketing team, content recommendations, and improving retention.
 
+## Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Tableau (for interactive dashboards)
+- Jupyter Notebook
 
 ## Tableu Public Dashboard: 
 Tableau Public Dashboard 1: https://public.tableau.com/app/profile/dinara.ibotova/viz/NetflixProject-AnalysisofMonthlyIncomebySubscriptionMethodandGender/Dashboard1?publish=yes
 Tableau Public Dashboard 2: https://public.tableau.com/app/profile/dinara.ibotova/viz/NetflixProject-NetflixDashboard2outof2/Dashboard2?publish=yes
 
 ## Next Steps
-
+- Explore marketing campaigns to drive Premium plan adoption in slect countries.
+- Keep doing user genre insights for personalized content recommendations.
+  
 ## Conclusion
+In this project I have demonstrated the value of analyzing user behavior to drive strategic decision in marketing, content, and retention. By understanding user preferences and engagement patters, Netflix can better service its diverse audiences.
 
 ## References
 - [Kaggle Data] (https://www.kaggle.com/datasets/chul24/data-neflix/data)
