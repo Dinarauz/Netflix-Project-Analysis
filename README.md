@@ -3,10 +3,15 @@
 
 ## Project Overview
 This project analyzes Netflix user data from Kaggle to understand user behavior, preferences, and engagement metrics. The insights help inform the marketing strategies, imporove user retention, and guide content recommendations.
+
 **Dataset:** Kaggle Netflix Data: https://www.kaggle.com/datasets/chul24/data-neflix/data
 
 ## Key Objectives
-
+- Identify the highest number of subscribtions by country and plan type.
+- Analyze genre preferences by gender and country.
+- Understand the relationship between monthly income and subscription plans.
+- Examine user retention and renewal patterns.
+  
 ## Key Business Questions
 1. Which country has the highest number of subscriptions by method?
 2. Which genre is most watched by gender? Which genre is most popular by country? 
@@ -16,6 +21,51 @@ This project analyzes Netflix user data from Kaggle to understand user behavior,
 ## Key Findings
 
 ### 1. Top Countries by Subscription Method
+- The top 10 countries with the highest Netflix subscriptions are : Spain, United Satetes, Canada, Brazil, United Kingdom, France, Italy, Australia, Mexico, and Germany.
+- **Plan Preferences:**
+- - **Spain:** Standard and Premium dominate.
+  - **United States:** Even distribution across all plans.
+  - **Canada, Brazil, Italy, Germany:** Mostly Basic plans.
+  - **France:** Mostly Premium plans.
+  - **UK & Mexico:** Mostly Standard plans.
+ 
+**Recommendation:**
+-Encourage Premium adoptin in Basic, standard heavy markets with exclusive shows or local partnerships that might attract more subscribers.
+
+## 2. Genre Popularity by Gender and Country
+- **By Gender:**
+- Women prefer Comedy (15%), then Horror, Drama, Action & Adventure, and others.
+- Men prefer Horror (20%) and Action & Adventure (19%).
+- **By Country:**
+- US & Spain favor Horror.
+- Canada favors Action & Adventure
+- Brazil favors Horror genres as well.
+ 
+## 3. Montly Income vs. Subscription Plan
+- No significant income difference in plan choice between men and women.
+- **Average Montly Income:**
+- Basic: Male - $404,6000 | Female - $390,200
+- Premium: Male - $308,700 | Female - $304,300
+- Standard: Male - $293,000 | Female - $287,300
+
+**Recommendation:**
+  - Consider tailored pricing or premoim features, but income doesnt strongly impact plan choice.
+ 
+## 4. Retention & Renewal Insights
+- **Renewal Rate:** 99.51% - high retention, indicating strong loyalty.
+- **Retention Periods:**
+    - 181-365 days: 74.56% retention.
+    - >365 days: 25% retention.
+    - >91-180 days: Only 0.68% retention.
+
+**Seasonal Trends:**
+- User join rates peak mid-year (June), with a slight decline toward year-end.
+
+**Days Since Join:**
+- Most users are retained between 
+
+  
+  
 
 My questions are based on getting to know subscribers, such as the highest number of subscribers based on their country of residence. I was also curious to identify viewing patterns based on gender preferences.
 Not to mention if income affects the subscription plans and methods. Lastly retention rate by measuring how well does or doesn't retain its users over time.
