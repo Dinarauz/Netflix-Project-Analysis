@@ -68,6 +68,9 @@ This project analyzes Netflix user data from Kaggle to understand user behavior,
 - Python (Pandas, Matplotlib, Seaborn)
 - Tableau (for interactive dashboards)
 - Jupyter Notebook
+- 
+**Power BI Dashboard**
+-https://app.powerbi.com/groups/me/reports/a04cd3cd-c542-45ce-881b-1a6def9db7f5/c46c1bbaaca4c8c8b135?experience=power-bi
 
 ## Tableu Public Dashboard: 
 Tableau Public Dashboard 1: https://public.tableau.com/app/profile/dinara.ibotova/viz/NetflixProject-AnalysisofMonthlyIncomebySubscriptionMethodandGender/Dashboard1?publish=yes
