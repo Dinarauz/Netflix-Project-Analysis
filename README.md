@@ -33,48 +33,78 @@ Top 10 countries: Spain, United States, Canada, Brazil, UK, France, Italy, Austr
   - **UK & Mexico:** Standard plans most popular
 
 **What this means:** Premium uptake varies drastically by region. Some countries are willing to pay more while others stick to basics.
- 
-**Recommendation:**
--Encourage Premium adoptin in Basic, standard heavy markets with exclusive shows or local partnerships that might attract more subscribers.
 
-## 2. Genre Popularity by Gender and Country
-- **By Gender:**
-- Women prefer Comedy (15%), then Horror, Drama, Action & Adventure, and others.
-- Men prefer Horror (20%) and Action & Adventure (19%).
-- **By Country:**
-- US & Spain favor Horror.
-- Canada favors Action & Adventure
-- Brazil favors Horror genres as well.
- 
-## 3. Montly Income vs. Subscription Plan
-- No significant income difference in plan choice between men and women.
-- **Average Montly Income:**
-- Basic: Male - $404,6000 | Female - $390,200
-- Premium: Male - $308,700 | Female - $304,300
-- Standard: Male - $293,000 | Female - $287,300
+## Genre Preferences
+**By Gender:**
+• Women: Comedy (15%), then Horror, Drama, Action & Adventure
+• Men: Horror (20%) and Action & Adventure (19%)
 
-**Recommendation:**
-  - Consider tailored pricing or premoim features, but income doesnt strongly impact plan choice.
- 
-## 4. Retention & Renewal Insights
-- **Renewal Rate:** 99.51% - high retention, indicating strong loyalty.
-- **Retention Periods:**
-    - 181-365 days: 74.56% retention.
-    - >365 days: 25% retention.
-    - >91-180 days: Only 0.68% retention.
+**By Country:**
+• US & Spain: Horror fans
+• Canada: Action & Adventure
+• Brazil: Also big on Horror
 
-**Seasonal Trends:**
-- User join rates peak mid-year (June), with a slight decline toward year-end.
+**Income vs Plan Choice:**
+Surprisingly, income doesn't strongly predict which plan people choose.
 
-**Days Since Join:**
-- Most users are retained between 250 - 400 days after joining.
+**Average monthly income by plan:**
+• Basic: Men $404K | Women $390K
+• Premium: Men $309K | Women $304K
+• Standard: Men $293K | Women $287K
 
-## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Tableau (for interactive dashboards)
-- Jupyter Notebook
-- Power Bi
-- 
+The differences aren't huge - plan choice seems driven more by perceived value than pure income level.
+
+## Retention Metrics (The Good News)
+**Renewal Rate: 99.51%** - Netflix has crazy high retention
+
+**Retention by time period:**
+• 181-365 days: 74.56% still subscribed
+• 365+ days: 25% long-term subscribers
+• 91-180 days: Only 0.68% (low early churn)
+
+**Join patterns:**
+• Peak sign-ups in June (mid-year)
+• Slight decline toward year-end
+• Most users stay between 250-400 days after joining
+
+## Technical Details
+**Data Source:** [Kaggle Data] (https://www.kaggle.com/datasets/chul24/data-neflix/data)
+
+**Analysis Approach:**
+• Data cleaning and preprocessing with pandas
+• Statistical analysis of subscription patterns
+• Genre preference segmentation by demographics
+• Retention rate calculations and trend analysis
+• Multiple visualization approaches (Python plots, Tableau, Power BI)
+
+**Tools:**
+• Python (pandas, matplotlib, seaborn)
+• Jupyter Notebook
+• Tableau Public
+• Power BI
+
+## Business Recommendations
+1. **Regional Premium Push:** Countries favoring Basic plans (Canada, Brazil, Italy, Germany) could be targets for Premium upselling through exclusive local content or partnerships
+2. **Gender-Specific Content Marketing:**
+  • Promote Comedy content to women
+  • Highlight Horror and Action to men
+  • But these are just trends, we have to make sure these stereotypes is not overdone
+3. **Regional Content Strategy:** We need to double down on Horror in US/Spain/Brazil, Action content in Canada
+4. **Income Insight:** Since income doesn't strongly predict plan choice, we need to focus marketing on value and features rather than price sensitivity
+5. **Maintain High Retention:** Whatever Netflix is doing to keep it up since we have 99.51% renewal rate which is very high.
+
+## Current Limitations
+• Dataset may not capture recent subscription model changes (with ads tier)
+• Income data seems unusually high, might be a data quality issue worth investigating
+• No info on actual viewing hours or content completion rates
+• Limited to specific time period
+
+## Next Steps
+• Analyze whether Premium subscribers actually use Premium features (4K, multiple screens)
+• Look at content completion rates by genre and demographic
+• Study the small group (0.68%) who churn early to understand why
+• Test targeted campaigns for Premium adoption in Basic-heavy markets
+
 **Power BI Dashboard**
 - PDF: https://github.com/Dinarauz/Netflix-Project-Analysis/blob/main/visualizations/Netflix.pdf
 
@@ -84,12 +114,3 @@ Top 10 countries: Spain, United States, Canada, Brazil, UK, France, Italy, Austr
 Tableau Public Dashboard 1: https://public.tableau.com/app/profile/dinara.ibotova/viz/NetflixProject-AnalysisofMonthlyIncomebySubscriptionMethodandGender/Dashboard1?publish=yes
 Tableau Public Dashboard 2: https://public.tableau.com/app/profile/dinara.ibotova/viz/NetflixProject-NetflixDashboard2outof2/Dashboard2?publish=yes
 
-## Next Steps
-- Explore marketing campaigns to drive Premium plan adoption in slect countries.
-- Keep doing user genre insights for personalized content recommendations.
-  
-## Conclusion
-In this project I have demonstrated the value of analyzing user behavior to drive strategic decision in marketing, content, and retention. By understanding user preferences and engagement patters, Netflix can better service its diverse audiences.
-
-## References
-- [Kaggle Data] (https://www.kaggle.com/datasets/chul24/data-neflix/data)
