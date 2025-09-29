@@ -1,33 +1,38 @@
-# Netflix Project - User Behavior Analysis
+# Netflix User Behavior Analysis - Streaming Media & Subscription Analytics
 ![BrandAssets_Logos_01-Wordmark](https://github.com/user-attachments/assets/b7dea815-4fd7-4fe4-81b4-65cf637db819)
 
-## Project Overview
-This project analyzes Netflix user data from Kaggle to understand user behavior, preferences, and engagement metrics. The insights help inform the marketing strategies, imporove user retention, and guide content recommendations.
+Subscription Patterns, Content Preferences & Retention Insights
+
+Analyzed Netflix user data to understand what keeps subscribers engaged, what content they watch, and how different demographics choose subscription plans. Found some surprising patterns in genre preferences and incredibly high retention rates.
 
 **Dataset:** Kaggle Netflix Data: https://www.kaggle.com/datasets/chul24/data-neflix/data
 
 ## Key Objectives
-- Identify the highest number of subscribtions by country and plan type.
-- Analyze genre preferences by gender and country.
-- Understand the relationship between monthly income and subscription plans.
-- Examine user retention and renewal patterns.
-  
-## Key Business Questions
-1. Which country has the highest number of subscriptions by method?
-2. Which genre is most watched by gender? Which genre is most popular by country? 
-3. Does monthly income affect the choice of subscription method and plan? What percentage of users renew their subscriptions after their initial plan duration ends?
-4. What is the retention rate based on join and last payment dates? Is there a seasonal trend in user join dates or subscription renewals?
+**Subscription Behavior:**
+• Which countries have the most subscribers and what plans do they choose?
+• Does income actually affect which plan people pick?
+
+**Content Preferences:**
+• What genres do men vs women prefer?
+• Are there regional differences in content taste?
+
+**User Retention:**
+• How many people actually renew their subscriptions?
+• What's the typical retention period?
+• Any seasonal patterns in sign-ups or renewals?
 
 ## Key Findings
+**Subscription Plans by Country**
+Top 10 countries: Spain, United States, Canada, Brazil, UK, France, Italy, Australia, Mexico, Germany
 
-### 1. Top Countries by Subscription Method
-- The top 10 countries with the highest Netflix subscriptions are : Spain, United Satetes, Canada, Brazil, United Kingdom, France, Italy, Australia, Mexico, and Germany.
-- **Plan Preferences:**
-- - **Spain:** Standard and Premium dominate.
-  - **United States:** Even distribution across all plans.
-  - **Canada, Brazil, Italy, Germany:** Mostly Basic plans.
-  - **France:** Mostly Premium plans.
-  - **UK & Mexico:** Mostly Standard plans.
+- **Plan Preferences vary a lot:**
+- - **Spain:** Standard and Premium plans dominate
+  - **United States:** Pretty even split across all plans
+  - **Canada, Brazil, Italy, Germany:** Mostly Basic plans
+  - **France:** Heavy Premium adoption
+  - **UK & Mexico:** Standard plans most popular
+
+**What this means:** Premium uptake varies drastically by region. Some countries are willing to pay more while others stick to basics.
  
 **Recommendation:**
 -Encourage Premium adoptin in Basic, standard heavy markets with exclusive shows or local partnerships that might attract more subscribers.
